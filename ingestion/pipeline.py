@@ -91,3 +91,14 @@ def render_markdown_report(report: QualityReport) -> str:
 
     return "\n".join(lines) + "\n"
 
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Run the data ingestion pipeline.")
+    parser.add_argument("--data-dir", type=Path, default=Path("data"), help="Directory containing source CSV files.")
+    parser.add_argument("--output-dir", type=Path, default=Path("output"), help="Directory to write cleaned data and reports.")
+    args = parser.parse_args()
+
+    report = run_ingestion(args.data_dir, args.output_dir)
+    print(f"Ingestion completed. Quality report:\n{report.as_dict()}")
