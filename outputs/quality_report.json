@@ -1,0 +1,27 @@
+{
+  "loaded_rows": {
+    "student_metadata": 200,
+    "student_daily_metrics": 2000,
+    "facilitator_notes": 180
+  },
+  "output_rows": {
+    "student_metadata": 200,
+    "student_daily_metrics": 2000,
+    "facilitator_notes": 180
+  },
+  "warnings": [
+    {
+      "dataset": "student_metadata",
+      "issue": "invalid_parent_phone",
+      "count": 1,
+      "detail": ""
+    },
+    {
+      "dataset": "student_daily_metrics",
+      "issue": "missing_session_attended_min_filled_with_zero_when_practice_zero",
+      "count": 3,
+      "detail": ""
+    }
+  ],
+  "errors": []
+}
