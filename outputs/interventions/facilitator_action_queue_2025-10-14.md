@@ -1,0 +1,449 @@
+# Facilitator Action Digest
+
+## facilitator1@noon.com
+
+### 1. Amal Al-Juhani (S012)
+- Campus: C01
+- Parent: +966501234512
+- Risk: 72.5 (high)
+- Why: latest quiz score 28; attendance rate 23%; practice avg 0.6/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Khalid Al-Anzi (S019)
+- Campus: C01
+- Parent: +966501234519
+- Risk: 59.7 (medium)
+- Why: latest quiz score 38; attendance rate 47%; practice avg 2.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Khalid بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 3. Fatima Al-Qahtani (S004)
+- Campus: C01
+- Parent: +966501234504
+- Risk: 58.8 (medium)
+- Why: latest quiz score 42; attendance rate 50%; practice avg 1.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 4. Ahmad Al-Faraj (S015)
+- Campus: C01
+- Parent: +966501234515
+- Risk: 40.0 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator2@noon.com
+
+### 1. Abdullah Al-Saud (S033)
+- Campus: C01
+- Parent: +966501234533
+- Risk: 67.1 (high)
+- Why: latest quiz score 30; attendance rate 39%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Nora Al-Qaisi (S022)
+- Campus: C01
+- Parent: +966501234522
+- Risk: 65.6 (high)
+- Why: latest quiz score 32; attendance rate 42%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 32، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Layla Al-Shammari (S038)
+- Campus: C01
+- Parent: +966501234538
+- Risk: 63.4 (high)
+- Why: latest quiz score 35; attendance rate 42%; practice avg 1.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 35، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 4. Ahmad Al-Salem (S027)
+- Campus: C01
+- Parent: +966501234527
+- Risk: 59.5 (medium)
+- Why: latest quiz score 40; attendance rate 46%; practice avg 2.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator3@noon.com
+
+### 1. Yousef Al-Saud (S073)
+- Campus: C02
+- Parent: +966501234573
+- Risk: 69.7 (high)
+- Why: latest quiz score 27; attendance rate 34%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Yousef Al-Juhani (S061)
+- Campus: C02
+- Parent: +966501234561
+- Risk: 68.3 (high)
+- Why: latest quiz score 29; attendance rate 37%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Yousef Al-Mutlaq (S049)
+- Campus: C02
+- Parent: +966501234549
+- Risk: 66.8 (high)
+- Why: latest quiz score 31; attendance rate 39%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 4. Sara Al-Anzi (S066)
+- Campus: C02
+- Parent: +966501234566
+- Risk: 64.4 (high)
+- Why: latest quiz score 34; attendance rate 39%; practice avg 1.6/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 34، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 5. Sara Al-Khalifa (S054)
+- Campus: C02
+- Parent: +966501234554
+- Risk: 63.1 (high)
+- Why: latest quiz score 36; attendance rate 42%; practice avg 1.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 36، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 6. Maryam Al-Faraj (S044)
+- Campus: C02
+- Parent: +966501234544
+- Risk: 60.0 (high)
+- Why: latest quiz score 39; attendance rate 45%; practice avg 2.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نود دعم Maryam قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 39، ونسبة الحضور الأخيرة 45%، ومتوسط التدريب اليومي 2.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 7. Abdullah Al-Mutlaq (S069)
+- Campus: C02
+- Parent: +966501234569
+- Risk: 40.1 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator4@noon.com
+
+### 1. Amal Al-Salem (S096)
+- Campus: C03
+- Parent: +966501234596
+- Risk: 72.5 (high)
+- Why: latest quiz score 24; attendance rate 28%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 24، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Amal Al-Subai (S084)
+- Campus: C03
+- Parent: +966501234584
+- Risk: 70.9 (high)
+- Why: latest quiz score 26; attendance rate 31%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 26، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Sara Al-Shammari (S078)
+- Campus: C03
+- Parent: +966501234578
+- Risk: 68.0 (high)
+- Why: latest quiz score 30; attendance rate 37%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 4. Khalid Al-Thani (S091)
+- Campus: C03
+- Parent: +966501234591
+- Risk: 67.1 (high)
+- Why: latest quiz score 48; attendance rate 17%; practice avg 1.6/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Khalid قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 48، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 5. Omar Al-Qaisi (S089)
+- Campus: C03
+- Parent: +966501234589
+- Risk: 66.6 (high)
+- Why: latest quiz score 33; attendance rate 34%; practice avg 1.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 33، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 6. Layla Al-Khaldi (S086)
+- Campus: C03
+- Parent: +966501234586
+- Risk: 41.1 (medium)
+- Why: latest quiz score 53; attendance rate 47%
+- Action: Schedule short 1:1 academic support before next quiz
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 7. Abdullah Al-Rashidi (S093)
+- Campus: C03
+- Parent: +966501234593
+- Risk: 40.4 (medium)
+- Why: latest quiz score 57; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator5@noon.com
+
+### 1. Amal Al-Subai (S108)
+- Campus: C03
+- Parent: +966501234608
+- Risk: 70.3 (high)
+- Why: latest quiz score 28; attendance rate 31%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Omar Al-Qaisi (S113)
+- Campus: C03
+- Parent: +966501234613
+- Risk: 68.5 (high)
+- Why: latest quiz score 31; attendance rate 34%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Sara Al-Shammari (S102)
+- Campus: C03
+- Parent: +966501234602
+- Risk: 58.2 (medium)
+- Why: latest quiz score 41; attendance rate 46%; practice avg 3.0/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator6@noon.com
+
+### 1. Amal Al-Subai (S132)
+- Campus: C04
+- Parent: +966501234632
+- Risk: 73.6 (high)
+- Why: latest quiz score 23; attendance rate 26%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Amal Al-Salem (S120)
+- Campus: C04
+- Parent: +966501234620
+- Risk: 72.2 (high)
+- Why: latest quiz score 25; attendance rate 28%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Omar Al-Qaisi (S137)
+- Campus: C04
+- Parent: +966501234637
+- Risk: 71.5 (high)
+- Why: latest quiz score 27; attendance rate 28%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 4. Sara Al-Shammari (S126)
+- Campus: C04
+- Parent: +966501234626
+- Risk: 70.0 (high)
+- Why: latest quiz score 29; attendance rate 31%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 5. Ahmad Al-Dossari (S123)
+- Campus: C04
+- Parent: +966501234623
+- Risk: 52.4 (medium)
+- Why: latest quiz score 58; attendance rate 58%; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 6. Layla Al-Khaldi (S134)
+- Campus: C04
+- Parent: +966501234634
+- Risk: 42.5 (medium)
+- Why: latest quiz score 60; attendance rate 56%; practice avg 8.4/day
+- Action: Schedule short 1:1 academic support before next quiz
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 7. Maryam Al-Mansour (S140)
+- Campus: C04
+- Parent: +966501234640
+- Risk: 40.4 (medium)
+- Why: latest quiz score 57; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 8. Abdullah Al-Otaibi (S129)
+- Campus: C04
+- Parent: +966501234629
+- Risk: 40.1 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator7@noon.com
+
+### 1. Hassan Al-Balawi (S155)
+- Campus: C04
+- Parent: +966501234655
+- Risk: 76.6 (high)
+- Why: latest quiz score 19; attendance rate 20%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Hassan قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 19، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 2. Amal Al-Salem (S144)
+- Campus: C04
+- Parent: +966501234644
+- Risk: 75.1 (high)
+- Why: latest quiz score 21; attendance rate 23%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 21، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 3. Ahmad Al-Anzi (S159)
+- Campus: C04
+- Parent: +966501234659
+- Risk: 74.4 (high)
+- Why: latest quiz score 23; attendance rate 23%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 4. Omar Al-Qahtani (S149)
+- Campus: C04
+- Parent: +966501234649
+- Risk: 73.0 (high)
+- Why: latest quiz score 25; attendance rate 26%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 5. Yousef Al-Harbi (S145)
+- Campus: C04
+- Parent: +966501234645
+- Risk: 65.8 (high)
+- Why: latest quiz score 0; attendance rate 42%; practice avg 8.2/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 0، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 8.2 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 6. Layla Al-Mutairi (S146)
+- Campus: C04
+- Parent: +966501234646
+- Risk: 42.5 (medium)
+- Why: latest quiz score 54; attendance rate 50%
+- Action: Schedule short 1:1 academic support before next quiz
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 7. Omar Al-Qaisi (S161)
+- Campus: C04
+- Parent: +966501234661
+- Risk: 42.3 (medium)
+- Why: latest quiz score 59; attendance rate 65%; practice avg 6.6/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 8. Sara Al-Mutlaq (S162)
+- Campus: C04
+- Parent: +966501234662
+- Risk: 41.0 (medium)
+- Why: latest quiz score 55; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 9. Maryam Al-Maliki (S152)
+- Campus: C04
+- Parent: +966501234652
+- Risk: 40.7 (medium)
+- Why: latest quiz score 56; practice avg 0.4/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+## facilitator8@noon.com
+
+### 1. Khalid Al-Zahrani (S199)
+- Campus: C05
+- Parent: +966501234699
+- Risk: 84.1 (critical)
+- Why: latest quiz score 9; attendance rate 6%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Khalid قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 9، ونسبة الحضور الأخيرة 6%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+
+### 2. Layla Al-Mutairi (S194)
+- Campus: C05
+- Parent: +966501234694
+- Risk: 82.6 (critical)
+- Why: latest quiz score 11; attendance rate 9%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Layla قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 11، ونسبة الحضور الأخيرة 9%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+
+### 3. Maryam Al-Mansour (S188)
+- Campus: C05
+- Parent: +966501234688
+- Risk: 81.0 (critical)
+- Why: latest quiz score 13; attendance rate 12%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Maryam قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 13، ونسبة الحضور الأخيرة 12%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+
+### 4. Layla Al-Khaldi (S182)
+- Campus: C05
+- Parent: +966501234682
+- Risk: 79.6 (high)
+- Why: latest quiz score 15; attendance rate 14%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 15، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 5. Nora Al-Saud (S166)
+- Campus: C05
+- Parent: +966501234666
+- Risk: 78.1 (high)
+- Why: latest quiz score 17; attendance rate 17%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 17، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 6. Abdullah Al-Otaibi (S177)
+- Campus: C05
+- Parent: +966501234677
+- Risk: 77.8 (high)
+- Why: latest quiz score 18; attendance rate 17%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 18، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 7. Ahmad Al-Dossari (S171)
+- Campus: C05
+- Parent: +966501234671
+- Risk: 76.3 (high)
+- Why: latest quiz score 20; attendance rate 20%; practice avg 0.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 20، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 8. Nora Al-Saud (S190)
+- Campus: C05
+- Parent: +966501234690
+- Risk: 68.4 (high)
+- Why: latest quiz score 46; attendance rate 14%; practice avg 1.6/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 46، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+
+### 9. Fatima Al-Ghamdi (S196)
+- Campus: C05
+- Parent: +966501234696
+- Risk: 59.5 (medium)
+- Why: latest quiz score 45; attendance rate 33%; practice avg 4.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 10. Hassan Al-Khalifa (S191)
+- Campus: C05
+- Parent: +966501234691
+- Risk: 54.8 (medium)
+- Why: latest quiz score 47; attendance rate 38%; practice avg 6.2/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 11. Hassan Al-Balawi (S179)
+- Campus: C05
+- Parent: +966501234679
+- Risk: 51.9 (medium)
+- Why: latest quiz score 49; attendance rate 41%; practice avg 7.4/day
+- Action: Call parent today to diagnose attendance barrier
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+
+### 12. Fatima Al-Shahrani (S184)
+- Campus: C05
+- Parent: +966501234684
+- Risk: 49.2 (medium)
+- Why: latest quiz score 55; attendance rate 55%; practice avg 4.6/day
+- Action: Send practice accountability message and assign a small daily target
+- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
