@@ -35,7 +35,7 @@ def build_action_queue(scored: pd.DataFrame, config: InterventionConfig, action_
     queue = queue[queue["action_priority"].ne("monitor")].copy()
 
     action_planner = action_planner or ActionPlannerLLM(config)
-    action_results = queue.apply(action_planner.plan_row, axis=1)
+    action_results = pd.Series(action_planner.plan_rows(queue), index=queue.index)
     queue["recommended_action"] = action_results.map(lambda result: result.recommended_action)
     queue["message_draft"] = action_results.map(lambda result: result.message_draft)
     queue["needs_human_review"] = action_results.map(lambda result: result.needs_human_review)

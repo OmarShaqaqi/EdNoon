@@ -4,6 +4,7 @@ from dataclasses import dataclass
 @dataclass(frozen=True)
 class RiskConfig:
     note_model: str = "gpt-4o-mini"
+    note_llm_concurrency: int = 80
     quiz_score_weight: float = 30
     quiz_trend_weight: float = 10
     attendance_weight: float = 25

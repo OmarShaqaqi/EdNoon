@@ -30,7 +30,7 @@ def add_risk_components(
     ).clip(0, 1)
     scored.loc[~scored["practice_risk_available"], "practice_risk"] = pd.NA
 
-    note_results = scored.apply(note_analyzer.analyze_row, axis=1)
+    note_results = pd.Series(note_analyzer.analyze_rows(scored), index=scored.index)
     scored["notes_risk"] = note_results.map(lambda result: result.risk)
     scored["notes_risk_available"] = note_results.map(lambda result: result.available)
     scored["notes_risk_confidence"] = note_results.map(lambda result: result.confidence)

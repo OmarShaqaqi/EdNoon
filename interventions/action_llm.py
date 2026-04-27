@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import json
 import os
 from dataclasses import dataclass
@@ -38,13 +39,30 @@ class ActionPlannerLLM:
         self.api_key = os.getenv("OPENAI_API_KEY")
         self.client = self._build_client() if self.api_key else None
 
-    def plan_row(self, row: pd.Series) -> ActionPlanResult:
-        if not self.api_key:
-            return fallback_action_plan(row, self.config, "missing_api_key")
-        if self.client is None:
-            return fallback_action_plan(row, self.config, "missing_openai_package")
+    def plan_rows(self, rows: pd.DataFrame) -> list[ActionPlanResult]:
+        row_list = [row for _, row in rows.iterrows()]
+        if not self.api_key or self.client is None:
+            return [self.plan_row_without_openai(row) for row in row_list]
+        return asyncio.run(self.plan_rows_async(row_list))
+
+    async def plan_rows_async(self, rows: list[pd.Series]) -> list[ActionPlanResult]:
+        semaphore = asyncio.Semaphore(self.config.action_llm_concurrency)
+        tasks = [self._plan_row_with_index(index, row, semaphore) for index, row in enumerate(rows)]
+        results: list[ActionPlanResult | None] = [None] * len(rows)
+        for task in progress_asyncio(tasks, "LLM intervention actions"):
+            index, result = await task
+            results[index] = result
+        return [result for result in results if result is not None]
+
+    async def _plan_row_with_index(
+        self, index: int, row: pd.Series, semaphore: asyncio.Semaphore
+    ) -> tuple[int, ActionPlanResult]:
+        async with semaphore:
+            return index, await self.plan_row_async(row)
+
+    async def plan_row_async(self, row: pd.Series) -> ActionPlanResult:
         try:
-            parsed = self._call_openai(row)
+            parsed = await self._call_openai(row)
             return ActionPlanResult(
                 recommended_action=str(parsed["recommended_action"]),
                 message_draft=str(parsed["message_draft"]),
@@ -62,15 +80,22 @@ class ActionPlannerLLM:
                 source="llm_error",
             )
 
+    def plan_row_without_openai(self, row: pd.Series) -> ActionPlanResult:
+        if not self.api_key:
+            return fallback_action_plan(row, self.config, "missing_api_key")
+        if self.client is None:
+            return fallback_action_plan(row, self.config, "missing_openai_package")
+        return fallback_action_plan(row, self.config, "missing_openai_package")
+
     def _build_client(self):
         try:
-            from openai import OpenAI
+            from openai import AsyncOpenAI
         except ImportError:
             return None
-        return OpenAI(api_key=self.api_key)
+        return AsyncOpenAI(api_key=self.api_key)
 
-    def _call_openai(self, row: pd.Series) -> dict:
-        response = self.client.responses.create(
+    async def _call_openai(self, row: pd.Series) -> dict:
+        response = await self.client.responses.create(
             model=self.model,
             instructions=(
                 "You are helping a Saudi test-prep facilitator choose one practical intervention. "
@@ -212,3 +237,12 @@ def fallback_review_reasons(row: pd.Series) -> list[str]:
     if "possible_data_quality_issue" in signals:
         reasons.append("possible note/student mismatch")
     return reasons
+
+
+def progress_asyncio(tasks, desc: str):
+    try:
+        from tqdm.asyncio import tqdm_asyncio
+
+        return tqdm_asyncio.as_completed(tasks, desc=desc, total=len(tasks))
+    except ImportError:
+        return asyncio.as_completed(tasks)

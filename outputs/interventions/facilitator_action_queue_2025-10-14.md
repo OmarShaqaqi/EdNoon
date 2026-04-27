@@ -5,445 +5,866 @@
 ### 1. Amal Al-Juhani (S012)
 - Campus: C01
 - Parent: +966501234512
-- Risk: 72.5 (high)
-- Why: latest quiz score 28; attendance rate 23%; practice avg 0.6/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 74.3 (high)
+- Why: latest quiz score 28; attendance rate 23%; practice avg 0.6/day; facilitator notes show concern
+- Action: Contact the parent to discuss Amal's attendance and academic performance, emphasizing the importance of their involvement.
+- Message: السلام عليكم،
 
-### 2. Khalid Al-Anzi (S019)
-- Campus: C01
-- Parent: +966501234519
-- Risk: 59.8 (medium)
-- Why: latest quiz score 38; attendance rate 47%; practice avg 2.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Khalid بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+أود أن أشارككم بعض المعلومات حول أداء ابنتكم أمل في البرنامج. للأسف، لم تحضر أمل بعض الحصص الدراسية، مما أثر على أدائها في الاختبارات. حصلت على 28 في آخر اختبار، والهدف هو الوصول إلى 35 في الاختبار القادم بعد 6 أيام.
 
-### 3. Fatima Al-Qahtani (S004)
+من المهم أن نتواصل ونعمل معًا لضمان نجاح أمل. هل يمكننا تحديد وقت للحديث عن كيفية دعمها في هذه الفترة؟
+
+شكرًا لتعاونكم،
+
+[اسمك]
+
+### 2. Fatima Al-Qahtani (S004)
 - Campus: C01
 - Parent: +966501234504
-- Risk: 58.7 (medium)
-- Why: latest quiz score 42; attendance rate 50%; practice avg 1.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 62.0 (high)
+- Why: latest quiz score 42; attendance rate 50%; practice avg 1.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Fatima's recent quiz performance and attendance issues, and suggest a meeting to create a supportive plan.
+- Message: السلام عليكم، أود أن أتحدث معكم بشأن أداء فاطمة في الاختبار الأخير وحضورها في الصف. لاحظت أنها تواجه بعض التحديات، وأرغب في مساعدتها. هل يمكننا تحديد موعد للحديث عن كيفية دعمها في الفترة القادمة؟ شكراً لتعاونكم.
+
+### 3. Khalid Al-Anzi (S019)
+- Campus: C01
+- Parent: +966501234519
+- Risk: 61.9 (high)
+- Why: latest quiz score 38; attendance rate 47%; practice avg 2.4/day; facilitator notes show concern
+- Action: Arrange a meeting with the parent to discuss Khalid's academic challenges and develop a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن خالد يواجه بعض التحديات الأكاديمية، حيث حصل على 38 في آخر اختبار. نحتاج إلى مناقشة كيفية تقديم الدعم اللازم له قبل الاختبار القادم في غضون 6 أيام. هل يمكننا تحديد موعد للاجتماع لمناقشة خطة الدعم؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 4. Ahmad Al-Faraj (S015)
 - Campus: C01
 - Parent: +966501234515
-- Risk: 40.2 (medium)
-- Why: latest quiz score 58; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 43.3 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day; facilitator notes show concern
+- Action: Send a reminder to the parent about the importance of practice for Ahmad's upcoming quiz.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أحمد. لقد حضر جميع الحصص مؤخرًا، لكن يبدو أنه يحتاج إلى مزيد من الممارسة استعدادًا للاختبار القادم. درجة الاختبار الأخيرة كانت 58، ومن المهم أن نساعده على فهم أهمية التمارين في تحسين درجاته. أرجو منكم تشجيعه على ممارسة الأسئلة خلال الأيام القادمة. شكراً لتعاونكم!
+
+### 5. Maryam Al-Zahrani (S008)
+- Campus: C01
+- Parent: +966501234508
+- Risk: 43.0 (medium)
+- Why: latest quiz score 62; practice avg 0.6/day; facilitator notes show concern
+- Action: Contact the parent to encourage support for Maryam's practice exercises and explain their importance for improving her quiz scores.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء مريم في الاختبارات. لقد حضرت مريم جميع الحصص، ولكنها لم تكمل التمارين المطلوبة، مما أثر على نتائجها. أعتقد أن دعمكم في تشجيعها على ممارسة التمارين سيكون له تأثير إيجابي كبير على أدائها. إذا كان لديكم أي استفسارات أو تحتاجون إلى مساعدة، فلا تترددوا في التواصل معي. شكراً لتعاونكم.
+
+### 6. Fatima Al-Khaldi (S016)
+- Campus: C01
+- Parent: +966501234516
+- Risk: 41.0 (medium)
+- Why: latest quiz score 55; attendance rate 56%; facilitator notes show concern
+- Action: Send a supportive message to the parent to encourage Fatima and discuss strategies for improvement.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء فاطمة في الاختبارات. لقد حصلت على 55 في آخر اختبار، ونهدف إلى تحسين هذا الأداء في الاختبار القادم. أعتقد أن دعمكم ومساعدتكم في المذاكرة سيكون له تأثير إيجابي. إذا كان لديكم أي استفسارات أو ترغبون في مناقشة استراتيجيات معينة، فلا تترددوا في التواصل معي. شكرًا لكم.
 
 ## facilitator2@noon.com
 
 ### 1. Abdullah Al-Saud (S033)
 - Campus: C01
 - Parent: +966501234533
-- Risk: 67.3 (high)
-- Why: latest quiz score 30; attendance rate 39%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 69.7 (high)
+- Why: latest quiz score 30; attendance rate 39%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Abdullah and his parent to discuss strategies for improvement and increase engagement.
+- Message: السلام عليكم،
+
+أود أن أتحدث معكم حول تقدم عبدالله في الدراسة. لقد لاحظنا أن حضوره في الصف كان منخفضًا وأنه يحتاج إلى مزيد من الممارسة قبل الاختبار القادم. أعتقد أنه من المهم أن نجتمع معًا لمناقشة بعض الاستراتيجيات التي يمكن أن تساعده في تحسين أدائه.
+
+هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 2. Nora Al-Qaisi (S022)
 - Campus: C01
 - Parent: +966501234522
-- Risk: 65.7 (high)
-- Why: latest quiz score 32; attendance rate 42%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 32، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 68.3 (high)
+- Why: latest quiz score 32; attendance rate 42%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Nora and her parent to discuss strategies for improvement and increase engagement.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم نورة في البرنامج. لقد حصلت على 32 في الاختبار الأخير، وألاحظ أن معدل حضورها وممارستها للأسئلة يحتاجان إلى تحسين. أعتقد أنه من المهم أن نجتمع معًا لمناقشة استراتيجيات تساعد نورة على تحقيق أهدافها الأكاديمية. 
+
+هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟
+
+شكرًا لتعاونكم،
+
+المعلمة [اسمك]
 
 ### 3. Layla Al-Shammari (S038)
 - Campus: C01
 - Parent: +966501234538
-- Risk: 63.5 (high)
-- Why: latest quiz score 35; attendance rate 42%; practice avg 1.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 35، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 65.2 (high)
+- Why: latest quiz score 35; attendance rate 42%; practice avg 1.4/day; facilitator notes show concern
+- Action: Arrange a meeting with Layla's parent to discuss a focused intervention plan to improve her quiz performance and attendance.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ليلى قد واجهت بعض التحديات في أدائها الأكاديمي، حيث حصلت على 35 في آخر اختبار. نحن نرغب في العمل معكم لوضع خطة دعم مكثفة لمساعدتها على تحسين أدائها. هل يمكننا تحديد موعد للاجتماع لمناقشة ذلك؟
+
+شكراً لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 4. Ahmad Al-Salem (S027)
 - Campus: C01
 - Parent: +966501234527
-- Risk: 59.6 (medium)
-- Why: latest quiz score 40; attendance rate 46%; practice avg 2.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 62.8 (high)
+- Why: latest quiz score 40; attendance rate 46%; practice avg 2.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Ahmad's progress and create a tailored support plan.
+- Message: السلام عليكم، أود أن أتحدث معكم حول تقدم أحمد في الدراسة. لقد لاحظنا أنه يواجه بعض التحديات في المواد الدراسية، ونرغب في التعاون معكم لوضع خطة دعم مناسبة له. هل يمكننا تحديد موعد للحديث عن هذا الأمر؟ شكراً لتعاونكم.
+
+### 5. Sara Al-Turki (S030)
+- Campus: C01
+- Parent: +966501234530
+- Risk: 41.4 (medium)
+- Why: latest quiz score 60; practice avg 0.8/day; facilitator notes show concern
+- Action: Send a reminder message to the parent about the importance of practice for Sara's upcoming quiz.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء سارة في الاختبارات. لقد حضرت سارة جميع الجلسات مؤخرًا، ولكنها بحاجة إلى ممارسة المزيد من الأسئلة للتحضير للاختبار القادم. 
+
+نحن نهدف إلى مساعدتها في تحقيق هدفها في الحصول على 75، لذا من المهم أن نركز على التمارين خلال الأيام القليلة القادمة. 
+
+إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، فلا تترددوا في التواصل معي. 
+
+شكرًا لتعاونكم،
+
+[اسمك]
 
 ## facilitator3@noon.com
 
 ### 1. Yousef Al-Saud (S073)
 - Campus: C02
 - Parent: +966501234573
-- Risk: 69.9 (high)
-- Why: latest quiz score 27; attendance rate 34%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 72.0 (high)
+- Why: latest quiz score 27; attendance rate 34%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Yousef to discuss his challenges and create a focused study plan.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم يوسف في الدراسة. لقد لاحظنا أنه يواجه بعض التحديات في الاختبارات الأخيرة، حيث حصل على 27 من 32 في الاختبار الأخير. نود أن نعمل معًا على وضع خطة دراسية تساعده على تحسين أدائه.
+
+هل يمكننا تحديد موعد للاجتماع لمناقشة هذا الأمر بشكل أعمق؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+الميسر
 
 ### 2. Yousef Al-Juhani (S061)
 - Campus: C02
 - Parent: +966501234561
-- Risk: 68.4 (high)
-- Why: latest quiz score 29; attendance rate 37%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 70.7 (high)
+- Why: latest quiz score 29; attendance rate 37%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a meeting with Yousef and his parent to discuss a focused study plan and additional support resources.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن يوسف يواجه بعض التحديات الأكاديمية، حيث حصل على 29 في آخر اختبار له. من المهم أن نعمل معًا لوضع خطة دعم تساعده على تحسين أدائه. أود أن أقترح تحديد موعد للاجتماع لمناقشة كيفية مساعدته في التحضير للاختبار القادم.
+
+يرجى إخباري بالوقت المناسب لكم.
+
+شكرًا لتعاونكم،
+
+[اسمك]
 
 ### 3. Yousef Al-Mutlaq (S049)
 - Campus: C02
 - Parent: +966501234549
-- Risk: 66.9 (high)
-- Why: latest quiz score 31; attendance rate 39%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 69.4 (high)
+- Why: latest quiz score 31; attendance rate 39%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a one-on-one tutoring session for Yousef to focus on quiz preparation and practice questions.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول يوسف. لقد واجه بعض التحديات في الاختبارات الأخيرة، حيث حصل على 31 من 38 في الاختبار الأخير. أعتقد أنه من المهم أن نعمل معًا لدعمه في التحضير للاختبار القادم. 
+
+لذا، أود أن أقترح تنظيم جلسة تعليمية خاصة لمساعدته على تحسين أدائه. إذا كان لديكم أي استفسارات أو اقتراحات، فلا تترددوا في التواصل معي.
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+المعلم
 
 ### 4. Sara Al-Anzi (S066)
 - Campus: C02
 - Parent: +966501234566
-- Risk: 64.5 (high)
-- Why: latest quiz score 34; attendance rate 39%; practice avg 1.6/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 34، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 66.1 (high)
+- Why: latest quiz score 34; attendance rate 39%; practice avg 1.6/day; facilitator notes show concern
+- Action: Arrange a meeting with the parent to discuss Sara's academic challenges and develop a support plan.
+- Message: السلام عليكم، أود أن أتحدث معك بشأن تقدم سارة الأكاديمي. لقد لاحظنا أنها تواجه بعض التحديات في الاختبارات والحضور. أعتقد أنه من المهم أن نجتمع معًا لوضع خطة دعم مكثفة لها. هل يمكنك تحديد موعد مناسب للحديث؟ شكرًا لتعاونك.
 
 ### 5. Sara Al-Khalifa (S054)
 - Campus: C02
 - Parent: +966501234554
-- Risk: 63.1 (high)
-- Why: latest quiz score 36; attendance rate 42%; practice avg 1.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 36، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 66.0 (high)
+- Why: latest quiz score 36; attendance rate 42%; practice avg 1.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Sara and her parent to discuss a tailored study plan and additional support resources.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن سارة تواجه بعض التحديات في دراستها، حيث حصلت على 36 في آخر اختبار. من المهم أن نعمل معًا لضمان تحسين أدائها. أقترح أن نجتمع لمناقشة خطة دراسية مخصصة ودعم إضافي يمكن أن يساعدها. 
+
+هل يمكنكم تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 6. Maryam Al-Faraj (S044)
 - Campus: C02
 - Parent: +966501234544
-- Risk: 60.1 (high)
-- Why: latest quiz score 39; attendance rate 45%; practice avg 2.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نود دعم Maryam قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 39، ونسبة الحضور الأخيرة 45%، ومتوسط التدريب اليومي 2.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 62.2 (high)
+- Why: latest quiz score 39; attendance rate 45%; practice avg 2.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Maryam's academic struggles and encourage a meeting to create a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم مريم تعاني من صعوبات أكاديمية ملحوظة، حيث حصلت على 39 في الاختبار الأخير. من المهم أن نتواصل معًا لوضع خطة دعم تساعدها على تحسين أدائها. أرجو أن نتحدث في أقرب وقت ممكن.
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+المعلمة
 
 ### 7. Abdullah Al-Mutlaq (S069)
 - Campus: C02
 - Parent: +966501234569
-- Risk: 40.2 (medium)
-- Why: latest quiz score 58; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 43.4 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day; facilitator notes show concern
+- Action: Encourage Abdullah to increase his practice questions to improve his understanding and performance before the next quiz.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عبدالله في الاختبارات الأخيرة. لقد حضر عبدالله جميع الجلسات، لكن يبدو أنه يحتاج إلى زيادة عدد التمارين التي يقوم بها يوميًا. التمارين مهمة جدًا لفهم المادة بشكل أفضل وتحقيق الهدف المطلوب في الاختبار القادم.
+
+أقترح أن نعمل معًا على وضع خطة لمساعدته في زيادة عدد التمارين التي يقوم بها قبل الاختبار اللفظي القادم. إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، فلا تترددوا في التواصل معي.
+
+شكرًا لتعاونكم،
+
+المعلمة
+
+### 8. Abdullah Al-Mutairi (S057)
+- Campus: C02
+- Parent: +966501234557
+- Risk: 43.2 (medium)
+- Why: latest quiz score 61; practice avg 0.8/day; facilitator notes show concern
+- Action: Contact the parent to discuss the importance of practice questions and how they can support Abdullah's preparation for the upcoming quiz.
+- Message: السلام عليكم، أود أن أبلغكم بأن عبدالله قد حضر جميع الجلسات مؤخرًا، لكن لم يتمكن من إكمال أي تمارين. من المهم أن نعمل معًا على تعزيز ممارسته استعدادًا للاختبار القادم. هل يمكننا مناقشة كيفية دعم عبدالله في هذا الجانب؟ شكرًا لتعاونكم.
+
+### 9. Ahmad Al-Ghamdi (S075)
+- Campus: C02
+- Parent: +966501234575
+- Risk: 42.2 (medium)
+- Why: latest quiz score 54; attendance rate 50%; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Ahmad to discuss his challenges and build his confidence.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أحمد. لقد واجه بعض الصعوبات في الاختبار الأخير، وأعتقد أنه يحتاج إلى دعم إضافي لبناء ثقته بنفسه. أود أن أقترح أن نجتمع معًا لمناقشة كيفية مساعدته بشكل أفضل في الفترة القادمة. 
+
+هل يمكننا تحديد موعد للاجتماع؟
+
+شكرًا لتعاونكم،
+
+المعلمة
 
 ## facilitator4@noon.com
 
 ### 1. Amal Al-Salem (S096)
 - Campus: C03
 - Parent: +966501234596
-- Risk: 72.7 (high)
-- Why: latest quiz score 24; attendance rate 28%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 24، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 74.5 (high)
+- Why: latest quiz score 24; attendance rate 28%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Amal's academic struggles and create a tailored support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم، أمل، تواجه بعض التحديات الأكاديمية في الوقت الحالي، حيث حصلت على 24 في آخر اختبار. من المهم أن نتعاون معًا لدعمها في تحسين أدائها. أود أن أقترح تحديد موعد للاجتماع لمناقشة خطة دعم مخصصة لها قبل الاختبار القادم.
+
+يرجى إخباري بالوقت المناسب لكم.
+
+شكرًا لتعاونكم،
+
+[اسمك]  
+[وظيفتك]  
+[اسم المؤسسة]
 
 ### 2. Amal Al-Subai (S084)
 - Campus: C03
 - Parent: +966501234584
-- Risk: 71.1 (high)
-- Why: latest quiz score 26; attendance rate 31%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 26، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 73.1 (high)
+- Why: latest quiz score 26; attendance rate 31%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a meeting with the parent to discuss a tailored support plan for Amal.
+- Message: السلام عليكم، أود أن أبلغكم بأن الطالبة أمل تعاني من بعض التحديات الأكاديمية في الفترة الأخيرة، حيث حصلت على 26 في الاختبار الأخير. من المهم أن نتعاون معًا لوضع خطة دعم مناسبة لها قبل الاختبار القادم. هل يمكننا تحديد موعد للاجتماع لمناقشة ذلك؟ شكرًا لتعاونكم.
 
 ### 3. Sara Al-Shammari (S078)
 - Campus: C03
 - Parent: +966501234578
-- Risk: 68.1 (high)
-- Why: latest quiz score 30; attendance rate 37%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 70.4 (high)
+- Why: latest quiz score 30; attendance rate 37%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a meeting with Sara and her parent to discuss her academic challenges and create a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن سارة تواجه بعض التحديات الأكاديمية، حيث حصلت على 30 في آخر اختبار. من المهم أن نتحدث معًا لنساعدها في تحسين أدائها قبل الاختبار القادم. هل يمكننا تحديد موعد للاجتماع لمناقشة خطة الدعم المناسبة؟
+
+شكرًا لتعاونكم،
+
+الميسر
 
 ### 4. Omar Al-Qaisi (S089)
 - Campus: C03
 - Parent: +966501234589
-- Risk: 66.6 (high)
-- Why: latest quiz score 33; attendance rate 34%; practice avg 1.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 33، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 69.1 (high)
+- Why: latest quiz score 33; attendance rate 34%; practice avg 1.4/day; facilitator notes show concern
+- Action: Schedule a focused review session for Omar to address his quiz performance and improve his practice habits before the next quiz.
+- Message: السلام عليكم، أود أن أبلغكم بأن عمر قد واجه صعوبة في الاختبار الأخير حيث حصل على 33 من 40. نحتاج إلى العمل معًا لتحسين أدائه قبل الاختبار القادم بعد 6 أيام. هل يمكننا تحديد جلسة مراجعة مركزة لمساعدته؟ شكرًا لتعاونكم.
 
 ### 5. Khalid Al-Thani (S091)
 - Campus: C03
 - Parent: +966501234591
-- Risk: 66.2 (high)
-- Why: latest quiz score 48; attendance rate 17%; practice avg 1.6/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Khalid قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 48، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 68.7 (high)
+- Why: latest quiz score 48; attendance rate 17%; practice avg 1.6/day; facilitator notes show concern
+- Action: Contact the parent to discuss Khalid's attendance and academic struggles, and suggest a meeting to create a support plan.
+- Message: السلام عليكم،
 
-### 6. Layla Al-Khaldi (S086)
-- Campus: C03
-- Parent: +966501234586
-- Risk: 41.5 (medium)
-- Why: latest quiz score 53; attendance rate 47%
-- Action: Schedule short 1:1 academic support before next quiz
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+أود أن أتحدث معك بشأن خالد. لاحظت أنه يواجه بعض التحديات في المدرسة، خاصة فيما يتعلق بالحضور والاختبارات. أعتقد أنه من المهم أن نتواصل لنرى كيف يمكننا دعمه بشكل أفضل. هل يمكنك تحديد موعد لمناقشة ذلك؟
 
-### 7. Abdullah Al-Rashidi (S093)
+شكرًا لك،
+
+[اسمك]
+
+### 6. Abdullah Al-Rashidi (S093)
 - Campus: C03
 - Parent: +966501234593
-- Risk: 40.6 (medium)
-- Why: latest quiz score 57; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 44.7 (medium)
+- Why: latest quiz score 57; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to encourage support for Abdullah's practice habits.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عبدالله في الاختبارات. لقد حضر جميع الحصص مؤخرًا، ولكن يبدو أنه يواجه صعوبة في ممارسة التمارين. هذا قد يؤثر على نتائجه في الاختبارات القادمة. نوصي بأن تتحدثوا معه وتشجعوه على ممارسة المزيد من الأسئلة قبل الاختبار القادم. نحن هنا لدعمه ومساعدته في تحقيق أهدافه.
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
+
+### 7. Layla Al-Khaldi (S086)
+- Campus: C03
+- Parent: +966501234586
+- Risk: 43.4 (medium)
+- Why: latest quiz score 53; attendance rate 47%; facilitator notes show concern
+- Action: Send a supportive message to the parent to encourage Layla and suggest a review session before the next quiz.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم ليلى. لقد أظهرت ليلى تحسناً ملحوظاً في محاولتها حل الأسئلة الصعبة، وهذا أمر إيجابي. ومع ذلك، سجلت درجة 53 في الاختبار الأخير، مما يعني أنها بحاجة إلى بعض الدعم الإضافي قبل الاختبار القادم بعد 6 أيام.
+
+أقترح أن نجتمع لمراجعة بعض المفاهيم المهمة معاً. يمكننا تحديد موعد يناسبكم. شكراً لتعاونكم ودعمكم المستمر.
+
+تحياتي،
+الميسر
 
 ## facilitator5@noon.com
 
 ### 1. Amal Al-Subai (S108)
 - Campus: C03
 - Parent: +966501234608
-- Risk: 70.4 (high)
-- Why: latest quiz score 28; attendance rate 31%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 72.5 (high)
+- Why: latest quiz score 28; attendance rate 31%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a meeting with the parent to discuss Amal's academic challenges and create a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم، أمل، تواجه بعض التحديات الأكاديمية في الوقت الحالي. لقد حصلت على درجة 28 في آخر اختبار، ونحتاج إلى العمل معًا لدعمها وتحسين أدائها. أود أن أقترح عقد اجتماع لمناقشة كيفية مساعدتها بشكل أفضل قبل الاختبار القادم.
+
+يرجى إخباري بوقت يناسبكم.
+
+شكرًا لتعاونكم،
+
+[اسمك]
 
 ### 2. Omar Al-Qaisi (S113)
 - Campus: C03
 - Parent: +966501234613
-- Risk: 68.5 (high)
-- Why: latest quiz score 31; attendance rate 34%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 70.8 (high)
+- Why: latest quiz score 31; attendance rate 34%; practice avg 0.4/day; facilitator notes show concern
+- Action: Arrange a meeting with the parent to discuss an action plan for Omar's academic improvement.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن عمر يواجه بعض التحديات الأكاديمية، حيث حصل على 31 في آخر اختبار. من المهم أن نعمل معًا لوضع خطة عمل لدعمه في التحضير للاختبار القادم. هل يمكننا تحديد موعد للاجتماع لمناقشة الخطوات التالية؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 3. Sara Al-Shammari (S102)
 - Campus: C03
 - Parent: +966501234602
-- Risk: 58.3 (medium)
-- Why: latest quiz score 41; attendance rate 46%; practice avg 3.0/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 60.5 (high)
+- Why: latest quiz score 41; attendance rate 46%; practice avg 3.0/day; facilitator notes show concern
+- Action: Schedule a one-on-one session with Sara to review the latest quiz material and develop a study plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم سارة قد واجهت بعض التحديات في الاختبار الأخير، حيث حصلت على 41 من 100. نود أن نقدم لها دعمًا إضافيًا لمساعدتها في تحسين أدائها. 
+
+لذا، نخطط لعقد جلسة فردية معها خلال الأيام القليلة القادمة لمراجعة المواد وتطوير خطة دراسية. نأمل أن تساعد هذه الجلسة في تعزيز فهمها وثقتها.
+
+يرجى تأكيد ما إذا كان بإمكانكم التواصل معنا لتحديد موعد مناسب.
+
+شكرًا لتعاونكم.
+
+### 4. Abdullah Al-Otaibi (S105)
+- Campus: C03
+- Parent: +966501234605
+- Risk: 43.0 (medium)
+- Why: latest quiz score 59; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Abdullah's low practice engagement and encourage additional support at home.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عبدالله في التحضير للاختبار. لقد حضر عبدالله جميع الجلسات مؤخرًا، ولكن يبدو أنه يحتاج إلى مزيد من الممارسة. سجل في الاختبار الأخير كان 59، وهو أقل من الهدف المطلوب. 
+
+أوصي بأن نعمل معًا على تشجيعه على ممارسة المزيد من الأسئلة في الأيام القادمة، حيث يتبقى 6 أيام فقط على الاختبار القادم. دعمكم في هذا الأمر سيكون له تأثير إيجابي على أدائه.
+
+شكرًا لتعاونكم،
+
+[اسمك]
+
+### 5. Layla Al-Khaldi (S110)
+- Campus: C03
+- Parent: +966501234610
+- Risk: 40.3 (medium)
+- Why: latest quiz score 58; attendance rate 57%; facilitator notes show concern
+- Action: Send a supportive message to the parent encouraging Layla to engage more with her studies and offering assistance.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول تقدم ليلى في الدراسة. لقد حصلت على 58 في الاختبار الأخير، وأرى أنها بحاجة إلى مزيد من الدعم والتحدي في التمارين. أرجو أن نتعاون معًا لمساعدتها على تحسين أدائها. إذا كان لديكم أي استفسارات أو تحتاجون إلى مساعدة إضافية، لا تترددوا في التواصل معي. شكرًا لكم.
 
 ## facilitator6@noon.com
 
 ### 1. Amal Al-Subai (S132)
 - Campus: C04
 - Parent: +966501234632
-- Risk: 73.8 (high)
-- Why: latest quiz score 23; attendance rate 26%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 75.5 (high)
+- Why: latest quiz score 23; attendance rate 26%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Amal's progress and create a targeted study plan.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم ابنتكم أمل في الدراسة. لقد لاحظنا أن أمل تواجه بعض التحديات في الاختبارات الأخيرة، حيث حصلت على 23 من 30 في الاختبار الأخير. نود أن نعمل معكم على وضع خطة دراسية مخصصة لمساعدتها في تحسين أدائها.
+
+هل يمكننا تحديد موعد للاجتماع لمناقشة هذا الأمر بشكل أعمق؟
+
+شكراً لتعاونكم.
+
+مع أطيب التحيات،
+
+[اسمك]
 
 ### 2. Amal Al-Salem (S120)
 - Campus: C04
 - Parent: +966501234620
-- Risk: 72.3 (high)
-- Why: latest quiz score 25; attendance rate 28%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 74.2 (high)
+- Why: latest quiz score 25; attendance rate 28%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Amal to discuss her challenges and create a focused study plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم أمل تواجه بعض التحديات الأكاديمية في الفترة الحالية. لقد حصلت على 25 في الاختبار الأخير، ونود أن نساعدها في تحسين أدائها. 
+
+أقترح أن نجتمع معًا لمناقشة كيفية دعمها بشكل أفضل قبل الاختبار القادم. هل يمكننا تحديد موعد للاجتماع في الأيام القليلة المقبلة؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 3. Omar Al-Qaisi (S137)
 - Campus: C04
 - Parent: +966501234637
-- Risk: 71.6 (high)
-- Why: latest quiz score 27; attendance rate 28%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 73.6 (high)
+- Why: latest quiz score 27; attendance rate 28%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Omar and his parent to discuss strategies for improvement and increase engagement in practice.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن عمر قد واجه بعض التحديات في الاختبار الأخير، حيث حصل على 27 من 32. نحن نعمل على تحسين أدائه، وأعتقد أنه سيكون من المفيد أن نجتمع لمناقشة استراتيجيات الدعم التي يمكن أن تساعده في التحضير للاختبار القادم بعد 6 أيام. 
+
+يرجى تحديد وقت يناسبكم للاجتماع.
+
+شكراً لتعاونكم.
 
 ### 4. Sara Al-Shammari (S126)
 - Campus: C04
 - Parent: +966501234626
-- Risk: 70.1 (high)
-- Why: latest quiz score 29; attendance rate 31%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 72.2 (high)
+- Why: latest quiz score 29; attendance rate 31%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Sara's parent to discuss her academic progress and create a supportive plan for improvement.
+- Message: السلام عليكم،
+
+أود أن أتحدث معكم بشأن تقدم سارة الأكاديمي. لقد لاحظنا أنها تواجه بعض التحديات في الاختبارات، وآخر اختبار حصلت فيه على 29 من 35. من المهم أن نعمل معًا لدعمها في هذه الفترة. هل يمكننا تحديد موعد للاجتماع لمناقشة خطة لتحسين أدائها؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+[اسمك]
 
 ### 5. Ahmad Al-Dossari (S123)
 - Campus: C04
 - Parent: +966501234623
-- Risk: 51.8 (medium)
-- Why: latest quiz score 58; attendance rate 58%; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 55.8 (medium)
+- Why: latest quiz score 58; attendance rate 58%; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Ahmad's attendance and engagement, and suggest a meeting to create a supportive plan.
+- Message: السلام عليكم، أود أن أتحدث معكم بشأن أحمد وأدائه في البرنامج. لاحظنا أنه يواجه بعض التحديات في الحضور والمشاركة. هل يمكننا تحديد موعد للاجتماع لمناقشة كيفية دعمه بشكل أفضل؟ شكراً لتعاونكم.
 
 ### 6. Layla Al-Khaldi (S134)
 - Campus: C04
 - Parent: +966501234634
-- Risk: 42.3 (medium)
-- Why: latest quiz score 60; attendance rate 56%; practice avg 8.4/day
-- Action: Schedule short 1:1 academic support before next quiz
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 46.3 (medium)
+- Why: latest quiz score 60; attendance rate 56%; practice avg 8.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss potential solutions for improving Layla's attendance and academic performance.
+- Message: السلام عليكم،
+
+أود أن أتحدث معك حول وضع ليلى الأكاديمي. لاحظنا أنها تواجه بعض التحديات في الحضور والاختبارات، وآخر اختبار لها كان أقل من المتوقع. نريد أن نساعدها على تحسين أدائها، لذا أود أن نبحث معًا عن حلول مناسبة. هل يمكنك التواصل معي في أقرب وقت ممكن؟
+
+شكرًا لتعاونك.
+
+مع تحياتي،
+الميسر الدراسي
 
 ### 7. Maryam Al-Mansour (S140)
 - Campus: C04
 - Parent: +966501234640
-- Risk: 40.6 (medium)
-- Why: latest quiz score 57; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 43.7 (medium)
+- Why: latest quiz score 57; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Maryam's practice issues and explore ways to support her.
+- Message: السلام عليكم، أود أن أتحدث معكم حول مريم وأدائها في الاختبارات. لاحظنا أنها تواجه صعوبة في ممارسة الأسئلة، مما يؤثر على نتائجها. هل يمكننا تحديد موعد للحديث عن كيفية دعمها؟ شكراً لتعاونكم.
 
 ### 8. Abdullah Al-Otaibi (S129)
 - Campus: C04
 - Parent: +966501234629
-- Risk: 40.2 (medium)
-- Why: latest quiz score 58; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 43.4 (medium)
+- Why: latest quiz score 58; practice avg 0.4/day; facilitator notes show concern
+- Action: Encourage Abdullah to increase his practice questions to improve his understanding and performance before the next quiz.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء عبدالله في الاختبارات. لقد سجل 58 في آخر اختبار، ونحتاج إلى زيادة عدد الأسئلة التدريبية التي يقوم بها. أعتقد أن زيادة الممارسة ستساعده على تحسين نتائجه. هل يمكننا العمل معًا على وضع خطة لمساعدته في ذلك؟ شكرًا لتعاونكم.
+
+### 9. Layla Al-Mutairi (S122)
+- Campus: C04
+- Parent: +966501234622
+- Risk: 43.2 (medium)
+- Why: latest quiz score 56; attendance rate 53%; facilitator notes show concern
+- Action: Contact the parent to discuss Layla's recent quiz performance and attendance, and suggest a meeting to develop a more effective study strategy.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء ليلى في الاختبارات الأخيرة. لقد حصلت على 56 في الاختبار الأخير، مما يشير إلى أنها تواجه بعض التحديات الأكاديمية. كما أن معدل حضورها يحتاج إلى تحسين. 
+
+أقترح أن نجتمع لمناقشة استراتيجيات جديدة لدعمها في الفترة القادمة، خاصة مع اقتراب الاختبار اللفظي. 
+
+يرجى إخباري بوقت يناسبكم.
+
+شكراً لتعاونكم،
+
+المعلمة.
 
 ## facilitator7@noon.com
 
 ### 1. Hassan Al-Balawi (S155)
 - Campus: C04
 - Parent: +966501234655
-- Risk: 76.9 (high)
-- Why: latest quiz score 19; attendance rate 20%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Hassan قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 19، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 78.2 (high)
+- Why: latest quiz score 19; attendance rate 20%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Hassan's academic challenges and create a supportive plan.
+- Message: السلام عليكم، أود أن أتناقش معكم حول تقدم حسن الأكاديمي. لاحظنا أنه يواجه بعض التحديات في الاختبارات، ونرغب في وضع خطة لدعمه بشكل أفضل. هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟ شكراً لتعاونكم.
 
 ### 2. Amal Al-Salem (S144)
 - Campus: C04
 - Parent: +966501234644
-- Risk: 75.3 (high)
-- Why: latest quiz score 21; attendance rate 23%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 21، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 76.8 (high)
+- Why: latest quiz score 21; attendance rate 23%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with the parent to discuss Amal's academic engagement and create a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم، أمل السالم، تواجه بعض التحديات الأكاديمية في الفترة الحالية. لقد حصلت على 21 في آخر اختبار، ونحتاج إلى العمل معًا لضمان تحسين أدائها. 
+
+أقترح أن نجتمع لمناقشة كيفية دعمها بشكل أفضل قبل الاختبار القادم. هل يمكنكم تحديد موعد يناسبكم؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+[اسمك]
 
 ### 3. Ahmad Al-Anzi (S159)
 - Campus: C04
 - Parent: +966501234659
-- Risk: 74.6 (high)
-- Why: latest quiz score 23; attendance rate 23%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 76.2 (high)
+- Why: latest quiz score 23; attendance rate 23%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Ahmad's parent to discuss his recent performance and create a support plan.
+- Message: السلام عليكم، أود أن أبلغكم بأن أحمد قد واجه بعض التحديات في الاختبار الأخير، حيث حصل على 23 من 27. نود أن نتحدث معكم حول كيفية دعم أحمد في تحسين أدائه قبل الاختبار القادم بعد 6 أيام. هل يمكننا تحديد موعد للاجتماع؟ شكراً لتعاونكم.
 
 ### 4. Omar Al-Qahtani (S149)
 - Campus: C04
 - Parent: +966501234649
-- Risk: 73.1 (high)
-- Why: latest quiz score 25; attendance rate 26%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 74.9 (high)
+- Why: latest quiz score 25; attendance rate 26%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a meeting with Omar's parent to discuss strategies for improving attendance and quiz performance.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عمر في البرنامج. لقد سجل عمر 25 في آخر اختبار له، وهو بحاجة إلى تحسين أدائه قبل الاختبار القادم بعد 6 أيام. أعتقد أنه سيكون من المفيد أن نجتمع لمناقشة بعض الاستراتيجيات التي يمكن أن تساعده في تحسين حضوره وأدائه الأكاديمي.
+
+يرجى إخباري بموعد يناسبكم.
+
+مع خالص التحية،
+
+[اسمك]
 
 ### 5. Yousef Al-Harbi (S145)
 - Campus: C04
 - Parent: +966501234645
-- Risk: 67.9 (high)
+- Risk: 63.9 (high)
 - Why: latest quiz score 0; attendance rate 42%; practice avg 8.2/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 0، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 8.2 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Action: Contact the parent to discuss Yousef's progress and the importance of consistent attendance and practice in preparation for the upcoming quiz.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض المعلومات حول تقدم يوسف في البرنامج. لقد أظهر تحسنًا ملحوظًا في الحضور والممارسة، ولكن لا يزال هناك حاجة لمزيد من الجهد قبل الاختبار القادم. أرجو منكم دعم يوسف من خلال تشجيعه على الحضور والممارسة بشكل منتظم. 
+
+إذا كان لديكم أي استفسارات أو تحتاجون إلى مزيد من المعلومات، فلا تترددوا في التواصل معي. شكرًا لتعاونكم.
+
+مع تحياتي،
+الميسر الدراسي
 
 ### 6. Layla Al-Mutairi (S146)
 - Campus: C04
 - Parent: +966501234646
-- Risk: 42.7 (medium)
-- Why: latest quiz score 54; attendance rate 50%
-- Action: Schedule short 1:1 academic support before next quiz
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 46.7 (medium)
+- Why: latest quiz score 54; attendance rate 50%; facilitator notes show concern
+- Action: Contact the parent to discuss Layla's academic struggles and the need for ongoing support.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول تقدم ليلى في الدراسة. لقد واجهت بعض الصعوبات في الاختبارات الأخيرة، وأعتقد أنه من المهم أن نتحدث عن كيفية دعمها بشكل أفضل. أرجو أن نتواصل قريبًا لمناقشة الخطوات التالية. شكرًا لتعاونكم.
 
 ### 7. Omar Al-Qaisi (S161)
 - Campus: C04
 - Parent: +966501234661
-- Risk: 42.2 (medium)
-- Why: latest quiz score 59; attendance rate 65%; practice avg 6.6/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 45.2 (medium)
+- Why: latest quiz score 59; attendance rate 65%; practice avg 6.6/day; facilitator notes show concern
+- Action: Schedule a meeting with Omar and his parent to discuss strategies for improvement before the next quiz.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن عمر قد واجه بعض التحديات في الاختبار الأخير. حصل على 59 من 100، وهو أقل من الهدف المحدد له. أعتقد أنه سيكون من المفيد أن نجتمع معًا لمناقشة بعض الاستراتيجيات التي يمكن أن تساعده في التحضير للاختبار القادم. لدينا 6 أيام قبل الاختبار التالي، وأرغب في التأكد من أنه يحصل على الدعم اللازم.
+
+يرجى إخباري بموعد يناسبكم للاجتماع.
+
+شكرًا لكم،
+
+[اسمك]
 
 ### 8. Sara Al-Mutlaq (S162)
 - Campus: C04
 - Parent: +966501234662
-- Risk: 41.3 (medium)
-- Why: latest quiz score 55; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 44.3 (medium)
+- Why: latest quiz score 55; practice avg 0.4/day; facilitator notes show concern
+- Action: Organize a workshop for students on the importance of practice and engagement in their studies.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء سارة في الاختبارات الأخيرة. لقد حضرت سارة جميع الجلسات ولكنها لم تقم بممارسة التمارين بشكل كافٍ. نعتقد أن تنظيم ورشة عمل حول أهمية التمارين سيكون مفيدًا لها ولزملائها. هذه الورشة ستساعدهم على فهم أهمية الممارسة في تحسين درجاتهم.
+
+إذا كان لديكم أي استفسارات أو اقتراحات، لا تترددوا في التواصل معي.
+
+مع خالص التحية،
+
+[اسمك]
 
 ### 9. Maryam Al-Maliki (S152)
 - Campus: C04
 - Parent: +966501234652
-- Risk: 40.9 (medium)
-- Why: latest quiz score 56; practice avg 0.4/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 44.0 (medium)
+- Why: latest quiz score 56; practice avg 0.4/day; facilitator notes show concern
+- Action: Send a reminder message to the parent encouraging Maryam to practice more before the next quiz.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول ابنتكم مريم. لقد كانت حاضرة في الجلسات الأخيرة، ولكنها لم تقم بممارسة الأسئلة بشكل كافٍ. نوصي بتخصيص بعض الوقت لممارسة المزيد من الأسئلة قبل الاختبار القادم في غضون 6 أيام. هذا سيساعدها على تحسين أدائها. إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، لا تترددوا في التواصل معي. شكراً لتعاونكم.
+
+### 10. Khalid Al-Zahrani (S151)
+- Campus: C04
+- Parent: +966501234651
+- Risk: 40.4 (medium)
+- Why: latest quiz score 61; practice avg 7.6/day; facilitator notes show concern
+- Action: Send a supportive message to the parent to encourage Khalid and offer assistance.
+- Message: السلام عليكم، أود أن أشارككم أن خالد قد حصل على 61 في آخر اختبار له. نعلم أن لديه هدفًا للوصول إلى 65 في الاختبار القادم بعد 6 أيام. نود أن نقدم له الدعم الإضافي لمساعدته في تحقيق هذا الهدف. إذا كان لديكم أي استفسارات أو تحتاجون إلى مساعدة، لا تترددوا في التواصل معنا. شكرًا لكم.
 
 ## facilitator8@noon.com
 
 ### 1. Khalid Al-Zahrani (S199)
 - Campus: C05
 - Parent: +966501234699
-- Risk: 84.5 (critical)
-- Why: latest quiz score 9; attendance rate 6%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Khalid قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 9، ونسبة الحضور الأخيرة 6%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+- Risk: 85.1 (critical)
+- Why: latest quiz score 9; attendance rate 6%; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Khalid's low attendance and practice issues, and suggest a plan to improve his engagement before the next quiz.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء خالد في المدرسة. لقد لاحظنا أن معدل حضوره وممارسته للتمارين منخفض جداً، مما يؤثر على نتائجه. نريد أن نعمل معاً لتحسين هذا الوضع قبل الاختبار القادم. هل يمكننا تحديد موعد لمناقشة خطة دعم مناسبة؟
+
+شكراً لتعاونكم،
+
+المعلم/المعلمة
 
 ### 2. Layla Al-Mutairi (S194)
 - Campus: C05
 - Parent: +966501234694
-- Risk: 82.9 (critical)
-- Why: latest quiz score 11; attendance rate 9%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Layla قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 11، ونسبة الحضور الأخيرة 9%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+- Risk: 83.7 (critical)
+- Why: latest quiz score 11; attendance rate 9%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Layla to discuss her challenges and create a focused study plan.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم ليلى في الدراسة. لقد لاحظنا أنها تواجه بعض الصعوبات في الاختبارات الأخيرة، حيث حصلت على 11 من 14 في الاختبار الأخير. 
+
+لذلك، أود أن أقترح أن نجتمع معًا لمناقشة كيفية دعمها بشكل أفضل في هذه الفترة الحرجة. يمكننا وضع خطة دراسية مخصصة لمساعدتها في تحسين أدائها. 
+
+يرجى إخباري بوقت يناسبكم للاجتماع. شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]  
+[وظيفتك]  
+[اسم المؤسسة]
 
 ### 3. Maryam Al-Mansour (S188)
 - Campus: C05
 - Parent: +966501234688
-- Risk: 81.4 (critical)
-- Why: latest quiz score 13; attendance rate 12%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Maryam قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 13، ونسبة الحضور الأخيرة 12%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
+- Risk: 82.3 (critical)
+- Why: latest quiz score 13; attendance rate 12%; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Maryam's attendance and quiz performance, and suggest a plan for improvement.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء مريم في البرنامج. لقد لاحظنا أن معدل حضورها منخفض جداً، كما حصلت على 13 في آخر اختبار، مما يعني أنها بحاجة إلى دعم إضافي. 
+
+نقترح أن نعمل معاً لوضع خطة لتحسين أدائها قبل الاختبار القادم بعد 6 أيام. هل يمكننا تحديد موعد لمناقشة ذلك؟
+
+شكراً لتعاونكم.
+
+مع تحياتي،
+الميسر
 
 ### 4. Layla Al-Khaldi (S182)
 - Campus: C05
 - Parent: +966501234682
-- Risk: 79.9 (high)
-- Why: latest quiz score 15; attendance rate 14%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 15، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 81.0 (critical)
+- Why: latest quiz score 15; attendance rate 14%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one session to discuss Layla's progress and create a tailored study plan.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول تقدم ليلى في البرنامج. لقد حصلت على 15 في الاختبار الأخير، ونحتاج إلى تحسين هذا الأداء قبل الاختبار القادم بعد 6 أيام. 
+
+أقترح أن نجتمع في جلسة خاصة لمناقشة كيفية دعمها بشكل أفضل ووضع خطة دراسية تناسب احتياجاتها. 
+
+يرجى إخباري بوقت يناسبكم.
+
+شكرًا لتعاونكم،
+
+[اسمك]
 
 ### 5. Nora Al-Saud (S166)
 - Campus: C05
 - Parent: +966501234666
-- Risk: 78.4 (high)
-- Why: latest quiz score 17; attendance rate 17%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 17، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 79.6 (high)
+- Why: latest quiz score 17; attendance rate 17%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Nora to discuss her challenges and create a focused study plan.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء نورة في الفترة الأخيرة. لقد واجهت بعض التحديات في الاختبار الأخير، حيث حصلت على 17 من 20. نرى أن هناك حاجة لدعم إضافي لمساعدتها في تحسين أدائها.
+
+أقترح أن نجتمع لمناقشة خطة دراسية مخصصة لها، حيث يمكننا العمل معًا على تعزيز مهاراتها. هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+
+[اسمك]
 
 ### 6. Abdullah Al-Otaibi (S177)
 - Campus: C05
 - Parent: +966501234677
-- Risk: 78.1 (high)
-- Why: latest quiz score 18; attendance rate 17%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 18، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 79.3 (high)
+- Why: latest quiz score 18; attendance rate 17%; practice avg 0.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Abdullah's academic struggles and encourage increased attendance and practice.
+- Message: السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عبدالله في الفترة الأخيرة. لقد سجل عبدالله 18 في الاختبار الأخير، وهو بحاجة إلى تحسين أدائه لتحقيق الهدف المحدد. ألاحظ أن معدل حضوره منخفض، مما يؤثر على تقدمه الأكاديمي.
+
+أقترح أن نتحدث عن كيفية دعم عبدالله في الأيام القادمة، خاصة مع اقتراب الاختبار الجديد بعد 6 أيام. من المهم أن نعمل معًا لضمان نجاحه.
+
+شكرًا لتعاونكم،
+
+[اسمك] 
+[وظيفتك] 
+[جهة العمل]
 
 ### 7. Ahmad Al-Dossari (S171)
 - Campus: C05
 - Parent: +966501234671
-- Risk: 76.5 (high)
-- Why: latest quiz score 20; attendance rate 20%; practice avg 0.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 20، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 77.9 (high)
+- Why: latest quiz score 20; attendance rate 20%; practice avg 0.4/day; facilitator notes show concern
+- Action: Schedule a one-on-one meeting with Ahmad to discuss his challenges and create a focused study plan before the next quiz.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن أحمد يواجه بعض التحديات الأكاديمية، حيث حصل على 20 في آخر اختبار. من المهم أن نعمل معًا لمساعدته على تحسين أدائه. أقترح أن نجتمع معًا لمناقشة خطة دراسية مركزة قبل الاختبار القادم. 
+
+يرجى إخباري بوقت يناسبكم للاجتماع. شكرًا لتعاونكم.
+
+مع تحياتي،
+الميسر
 
 ### 8. Nora Al-Saud (S190)
 - Campus: C05
 - Parent: +966501234690
-- Risk: 67.5 (high)
-- Why: latest quiz score 46; attendance rate 14%; practice avg 1.6/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 46، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
+- Risk: 69.9 (high)
+- Why: latest quiz score 46; attendance rate 14%; practice avg 1.6/day; facilitator notes show concern
+- Action: Contact the parent to discuss Nora's attendance and academic performance, and suggest a meeting to create a support plan.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم، نورة، تواجه بعض التحديات في الحضور والأداء الأكاديمي. لقد انخفضت نسبة حضورها بشكل ملحوظ، وهذا يؤثر على تحصيلها الدراسي. أود أن أقترح أن نتحدث معًا لنضع خطة دعم تساعدها على التحسن قبل الاختبار القادم.
+
+هل يمكننا تحديد موعد لمناقشة هذا الأمر؟
+
+شكرًا لتعاونكم،
+
+[اسمك]
 
 ### 9. Fatima Al-Ghamdi (S196)
 - Campus: C05
 - Parent: +966501234696
-- Risk: 59.2 (medium)
-- Why: latest quiz score 45; attendance rate 33%; practice avg 4.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 61.4 (high)
+- Why: latest quiz score 45; attendance rate 33%; practice avg 4.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Fatima's recent quiz performance and attendance, and suggest a focused study plan for the upcoming quiz.
+- Message: السلام عليكم، أود أن أتحدث معكم بشأن أداء فاطمة في الاختبار الأخير. لقد حصلت على 45 من 100، مما يعني أنها بحاجة إلى دعم إضافي قبل الاختبار القادم بعد 6 أيام. أود أن أقترح خطة دراسة مركزة لمساعدتها في تحسين أدائها. هل يمكننا تحديد وقت للحديث عن ذلك؟ شكراً لتعاونكم.
 
 ### 10. Hassan Al-Khalifa (S191)
 - Campus: C05
 - Parent: +966501234691
-- Risk: 54.7 (medium)
-- Why: latest quiz score 47; attendance rate 38%; practice avg 6.2/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 57.4 (medium)
+- Why: latest quiz score 47; attendance rate 38%; practice avg 6.2/day; facilitator notes show concern
+- Action: Schedule a meeting with Hassan's parent to discuss his academic progress and strategies for improvement.
+- Message: السلام عليكم،
+
+أود أن أبلغكم بأن حسن قد واجه بعض التحديات في الاختبار الأخير، حيث حصل على 47 من 100. نحن نعمل على تحسين أدائه، وأعتقد أنه من المهم أن نتحدث معًا حول كيفية دعمه بشكل أفضل. هل يمكننا تحديد موعد للاجتماع لمناقشة استراتيجيات التحسين؟
+
+شكرًا لتعاونكم،
+
+المعلمة
 
 ### 11. Hassan Al-Balawi (S179)
 - Campus: C05
 - Parent: +966501234679
-- Risk: 51.8 (medium)
-- Why: latest quiz score 49; attendance rate 41%; practice avg 7.4/day
-- Action: Call parent today to diagnose attendance barrier
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 54.8 (medium)
+- Why: latest quiz score 49; attendance rate 41%; practice avg 7.4/day; facilitator notes show concern
+- Action: Contact the parent to discuss Hassan's recent quiz performance and attendance, and suggest a focused study plan.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء حسن في الاختبارات. لقد حصل على 49 في الاختبار الأخير، مما يعني أنه يحتاج إلى تحسين. كما أن معدل حضوره منخفض، مما قد يؤثر على تقدمه. أقترح أن نعمل معًا على خطة دراسية مركزة خلال الأيام القليلة القادمة قبل الاختبار القادم. هل يمكننا تحديد وقت للتحدث عن ذلك؟ شكراً لتعاونكم.
 
 ### 12. Fatima Al-Shahrani (S184)
 - Campus: C05
 - Parent: +966501234684
-- Risk: 48.9 (medium)
-- Why: latest quiz score 55; attendance rate 55%; practice avg 4.6/day
-- Action: Send practice accountability message and assign a small daily target
-- Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
+- Risk: 51.2 (medium)
+- Why: latest quiz score 55; attendance rate 55%; practice avg 4.6/day; facilitator notes show concern
+- Action: Send a supportive message to the parent to encourage Fatima and discuss her recent quiz performance.
+- Message: السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء فاطمة في الاختبارات الأخيرة. لقد حصلت على 55 في آخر اختبار، ونريد أن نساعدها في تحسين أدائها. نوصي بمزيد من الممارسة خلال الأيام القليلة القادمة قبل الاختبار القادم. إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، لا تترددوا في التواصل معنا. شكرًا لتعاونكم!

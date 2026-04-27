@@ -1,10 +1,51 @@
 student_id,student_name,campus_id,facilitator_email,parent_phone,parent_phone_valid,risk_score,risk_level,action_priority,queue_rank,today_action,recommended_action,risk_reasons,message_draft,needs_human_review,review_reason,action_plan_source
-S155,Hassan Al-Balawi,C04,facilitator7@noon.com,+966501234655,True,76.9,high,within_48h,1,True,Call parent today to diagnose attendance barrier,latest quiz score 19; attendance rate 20%; practice avg 0.4/day,السلام عليكم، نود دعم Hassan قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 19، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.,False,,missing_api_key
-S144,Amal Al-Salem,C04,facilitator7@noon.com,+966501234644,True,75.3,high,within_48h,2,True,Call parent today to diagnose attendance barrier,latest quiz score 21; attendance rate 23%; practice avg 0.4/day,السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 21، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.,False,,missing_api_key
-S159,Ahmad Al-Anzi,C04,facilitator7@noon.com,+966501234659,True,74.6,high,within_48h,3,True,Call parent today to diagnose attendance barrier,latest quiz score 23; attendance rate 23%; practice avg 0.4/day,السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.,False,,missing_api_key
-S149,Omar Al-Qahtani,C04,facilitator7@noon.com,+966501234649,True,73.1,high,within_48h,4,True,Call parent today to diagnose attendance barrier,latest quiz score 25; attendance rate 26%; practice avg 0.4/day,السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.,False,,missing_api_key
-S145,Yousef Al-Harbi,C04,facilitator7@noon.com,+966501234645,True,67.9,high,within_48h,5,True,Call parent today to diagnose attendance barrier,latest quiz score 0; attendance rate 42%; practice avg 8.2/day,السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 0، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 8.2 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.,False,,missing_api_key
-S146,Layla Al-Mutairi,C04,facilitator7@noon.com,+966501234646,True,42.7,medium,nudge_or_monitor,6,True,Schedule short 1:1 academic support before next quiz,latest quiz score 54; attendance rate 50%,السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.,False,,missing_api_key
-S161,Omar Al-Qaisi,C04,facilitator7@noon.com,+966501234661,True,42.2,medium,nudge_or_monitor,7,True,Send practice accountability message and assign a small daily target,latest quiz score 59; attendance rate 65%; practice avg 6.6/day,السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.,False,,missing_api_key
-S162,Sara Al-Mutlaq,C04,facilitator7@noon.com,+966501234662,True,41.3,medium,nudge_or_monitor,8,True,Send practice accountability message and assign a small daily target,latest quiz score 55; practice avg 0.4/day,السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.,False,,missing_api_key
-S152,Maryam Al-Maliki,C04,facilitator7@noon.com,+966501234652,True,40.9,medium,nudge_or_monitor,9,True,Send practice accountability message and assign a small daily target,latest quiz score 56; practice avg 0.4/day,السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.,False,,missing_api_key
+S155,Hassan Al-Balawi,C04,facilitator7@noon.com,+966501234655,True,78.2,high,within_48h,1,True,Schedule a meeting with the parent to discuss Hassan's academic challenges and create a supportive plan.,latest quiz score 19; attendance rate 20%; practice avg 0.4/day; facilitator notes show concern,السلام عليكم، أود أن أتناقش معكم حول تقدم حسن الأكاديمي. لاحظنا أنه يواجه بعض التحديات في الاختبارات، ونرغب في وضع خطة لدعمه بشكل أفضل. هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟ شكراً لتعاونكم.,False,,openai
+S144,Amal Al-Salem,C04,facilitator7@noon.com,+966501234644,True,76.8,high,within_48h,2,True,Schedule a meeting with the parent to discuss Amal's academic engagement and create a support plan.,latest quiz score 21; attendance rate 23%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
+
+أود أن أبلغكم بأن ابنتكم، أمل السالم، تواجه بعض التحديات الأكاديمية في الفترة الحالية. لقد حصلت على 21 في آخر اختبار، ونحتاج إلى العمل معًا لضمان تحسين أدائها. 
+
+أقترح أن نجتمع لمناقشة كيفية دعمها بشكل أفضل قبل الاختبار القادم. هل يمكنكم تحديد موعد يناسبكم؟
+
+شكرًا لتعاونكم.
+
+مع تحياتي،
+[اسمك]",False,,openai
+S159,Ahmad Al-Anzi,C04,facilitator7@noon.com,+966501234659,True,76.2,high,within_48h,3,True,Schedule a meeting with Ahmad's parent to discuss his recent performance and create a support plan.,latest quiz score 23; attendance rate 23%; practice avg 0.4/day; facilitator notes show concern,السلام عليكم، أود أن أبلغكم بأن أحمد قد واجه بعض التحديات في الاختبار الأخير، حيث حصل على 23 من 27. نود أن نتحدث معكم حول كيفية دعم أحمد في تحسين أدائه قبل الاختبار القادم بعد 6 أيام. هل يمكننا تحديد موعد للاجتماع؟ شكراً لتعاونكم.,False,,openai
+S149,Omar Al-Qahtani,C04,facilitator7@noon.com,+966501234649,True,74.9,high,within_48h,4,True,Schedule a meeting with Omar's parent to discuss strategies for improving attendance and quiz performance.,latest quiz score 25; attendance rate 26%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء عمر في البرنامج. لقد سجل عمر 25 في آخر اختبار له، وهو بحاجة إلى تحسين أدائه قبل الاختبار القادم بعد 6 أيام. أعتقد أنه سيكون من المفيد أن نجتمع لمناقشة بعض الاستراتيجيات التي يمكن أن تساعده في تحسين حضوره وأدائه الأكاديمي.
+
+يرجى إخباري بموعد يناسبكم.
+
+مع خالص التحية،
+
+[اسمك]",False,,openai
+S145,Yousef Al-Harbi,C04,facilitator7@noon.com,+966501234645,True,63.9,high,within_48h,5,True,Contact the parent to discuss Yousef's progress and the importance of consistent attendance and practice in preparation for the upcoming quiz.,latest quiz score 0; attendance rate 42%; practice avg 8.2/day,"السلام عليكم،
+
+أود أن أشارككم بعض المعلومات حول تقدم يوسف في البرنامج. لقد أظهر تحسنًا ملحوظًا في الحضور والممارسة، ولكن لا يزال هناك حاجة لمزيد من الجهد قبل الاختبار القادم. أرجو منكم دعم يوسف من خلال تشجيعه على الحضور والممارسة بشكل منتظم. 
+
+إذا كان لديكم أي استفسارات أو تحتاجون إلى مزيد من المعلومات، فلا تترددوا في التواصل معي. شكرًا لتعاونكم.
+
+مع تحياتي،
+الميسر الدراسي",False,,openai
+S146,Layla Al-Mutairi,C04,facilitator7@noon.com,+966501234646,True,46.7,medium,nudge_or_monitor,6,True,Contact the parent to discuss Layla's academic struggles and the need for ongoing support.,latest quiz score 54; attendance rate 50%; facilitator notes show concern,السلام عليكم، أود أن أشارككم بعض الملاحظات حول تقدم ليلى في الدراسة. لقد واجهت بعض الصعوبات في الاختبارات الأخيرة، وأعتقد أنه من المهم أن نتحدث عن كيفية دعمها بشكل أفضل. أرجو أن نتواصل قريبًا لمناقشة الخطوات التالية. شكرًا لتعاونكم.,False,,openai
+S161,Omar Al-Qaisi,C04,facilitator7@noon.com,+966501234661,True,45.2,medium,nudge_or_monitor,7,True,Schedule a meeting with Omar and his parent to discuss strategies for improvement before the next quiz.,latest quiz score 59; attendance rate 65%; practice avg 6.6/day; facilitator notes show concern,"السلام عليكم،
+
+أود أن أبلغكم بأن عمر قد واجه بعض التحديات في الاختبار الأخير. حصل على 59 من 100، وهو أقل من الهدف المحدد له. أعتقد أنه سيكون من المفيد أن نجتمع معًا لمناقشة بعض الاستراتيجيات التي يمكن أن تساعده في التحضير للاختبار القادم. لدينا 6 أيام قبل الاختبار التالي، وأرغب في التأكد من أنه يحصل على الدعم اللازم.
+
+يرجى إخباري بموعد يناسبكم للاجتماع.
+
+شكرًا لكم،
+
+[اسمك]",False,,openai
+S162,Sara Al-Mutlaq,C04,facilitator7@noon.com,+966501234662,True,44.3,medium,nudge_or_monitor,8,True,Organize a workshop for students on the importance of practice and engagement in their studies.,latest quiz score 55; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
+
+أود أن أشارككم بعض الملاحظات حول أداء سارة في الاختبارات الأخيرة. لقد حضرت سارة جميع الجلسات ولكنها لم تقم بممارسة التمارين بشكل كافٍ. نعتقد أن تنظيم ورشة عمل حول أهمية التمارين سيكون مفيدًا لها ولزملائها. هذه الورشة ستساعدهم على فهم أهمية الممارسة في تحسين درجاتهم.
+
+إذا كان لديكم أي استفسارات أو اقتراحات، لا تترددوا في التواصل معي.
+
+مع خالص التحية،
+
+[اسمك]",False,,openai
+S152,Maryam Al-Maliki,C04,facilitator7@noon.com,+966501234652,True,44.0,medium,nudge_or_monitor,9,True,Send a reminder message to the parent encouraging Maryam to practice more before the next quiz.,latest quiz score 56; practice avg 0.4/day; facilitator notes show concern,السلام عليكم، أود أن أشارككم بعض الملاحظات حول ابنتكم مريم. لقد كانت حاضرة في الجلسات الأخيرة، ولكنها لم تقم بممارسة الأسئلة بشكل كافٍ. نوصي بتخصيص بعض الوقت لممارسة المزيد من الأسئلة قبل الاختبار القادم في غضون 6 أيام. هذا سيساعدها على تحسين أدائها. إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، لا تترددوا في التواصل معي. شكراً لتعاونكم.,False,,openai
+S151,Khalid Al-Zahrani,C04,facilitator7@noon.com,+966501234651,True,40.4,medium,nudge_or_monitor,10,True,Send a supportive message to the parent to encourage Khalid and offer assistance.,latest quiz score 61; practice avg 7.6/day; facilitator notes show concern,السلام عليكم، أود أن أشارككم أن خالد قد حصل على 61 في آخر اختبار له. نعلم أن لديه هدفًا للوصول إلى 65 في الاختبار القادم بعد 6 أيام. نود أن نقدم له الدعم الإضافي لمساعدته في تحقيق هذا الهدف. إذا كان لديكم أي استفسارات أو تحتاجون إلى مساعدة، لا تترددوا في التواصل معنا. شكرًا لكم.,False,,openai

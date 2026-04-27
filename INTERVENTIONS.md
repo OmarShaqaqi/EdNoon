@@ -39,3 +39,5 @@ The LLM prompt includes:
 - note-risk reason/signals, latest note, and full chronological notes timeline
 
 If `OPENAI_API_KEY` or the `openai` package is unavailable, the layer falls back to deterministic action/message rules and records the source in `action_plan_source`.
+
+LLM action/message generation runs asynchronously with a `tqdm` progress bar. Concurrency is controlled by `action_llm_concurrency` in `interventions/config.py`.

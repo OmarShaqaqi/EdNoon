@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import json
 import os
 from dataclasses import dataclass
@@ -49,11 +50,65 @@ class NoteRiskResult:
 
 class NoteRiskAnalyzer:
     def __init__(self, config: RiskConfig) -> None:
+        self.config = config
         self.model = os.getenv("OPENAI_MODEL", config.note_model)
         self.api_key = os.getenv("OPENAI_API_KEY")
         self.client = self._build_client() if self.api_key else None
 
-    def analyze_row(self, row: pd.Series) -> NoteRiskResult:
+    def analyze_rows(self, rows: pd.DataFrame) -> list[NoteRiskResult]:
+        row_list = [row for _, row in rows.iterrows()]
+        if not self.api_key or self.client is None:
+            return [self.analyze_row_without_openai(row) for row in row_list]
+        return asyncio.run(self.analyze_rows_async(row_list))
+
+    async def analyze_rows_async(self, rows: list[pd.Series]) -> list[NoteRiskResult]:
+        semaphore = asyncio.Semaphore(self.config.note_llm_concurrency)
+        tasks = [self._analyze_row_with_index(index, row, semaphore) for index, row in enumerate(rows)]
+        results: list[NoteRiskResult | None] = [None] * len(rows)
+        for task in progress_asyncio(tasks, "LLM note risk"):
+            index, result = await task
+            results[index] = result
+        return [result for result in results if result is not None]
+
+    async def _analyze_row_with_index(
+        self, index: int, row: pd.Series, semaphore: asyncio.Semaphore
+    ) -> tuple[int, NoteRiskResult]:
+        async with semaphore:
+            return index, await self.analyze_row_async(row)
+
+    async def analyze_row_async(self, row: pd.Series) -> NoteRiskResult:
+        notes_history = str(row.get("notes_history", "") or "").strip()
+        if not notes_history:
+            return NoteRiskResult(
+                risk=None,
+                available=False,
+                confidence=0.0,
+                reason="No facilitator notes available.",
+                source="none",
+                signals="",
+            )
+
+        try:
+            parsed = await self._call_openai(row, notes_history)
+            return NoteRiskResult(
+                risk=clip01(float(parsed["risk"]) / 10),
+                available=True,
+                confidence=clip01(float(parsed["confidence"]) / 10),
+                reason=str(parsed["reason"]),
+                source="openai",
+                signals=",".join(parsed.get("signals", [])),
+            )
+        except Exception as exc:
+            return NoteRiskResult(
+                risk=None,
+                available=False,
+                confidence=0.0,
+                reason=f"LLM note analysis failed: {exc}",
+                source="llm_error",
+                signals="",
+            )
+
+    def analyze_row_without_openai(self, row: pd.Series) -> NoteRiskResult:
         notes_history = str(row.get("notes_history", "") or "").strip()
         if not notes_history:
             return NoteRiskResult(
@@ -73,45 +128,24 @@ class NoteRiskAnalyzer:
                 source="missing_api_key",
                 signals="",
             )
-        if self.client is None:
-            return NoteRiskResult(
-                risk=None,
-                available=False,
-                confidence=0.0,
-                reason="openai package is not installed; note risk skipped.",
-                source="missing_openai_package",
-                signals="",
-            )
-
-        try:
-            parsed = self._call_openai(row, notes_history)
-            return NoteRiskResult(
-                risk=clip01(float(parsed["risk"]) / 10),
-                available=True,
-                confidence=clip01(float(parsed["confidence"]) / 10),
-                reason=str(parsed["reason"]),
-                source="openai",
-                signals=",".join(parsed.get("signals", [])),
-            )
-        except Exception as exc:
-            return NoteRiskResult(
-                risk=None,
-                available=False,
-                confidence=0.0,
-                reason=f"LLM note analysis failed: {exc}",
-                source="llm_error",
-                signals="",
-            )
+        return NoteRiskResult(
+            risk=None,
+            available=False,
+            confidence=0.0,
+            reason="openai package is not installed; note risk skipped.",
+            source="missing_openai_package",
+            signals="",
+        )
 
     def _build_client(self):
         try:
-            from openai import OpenAI
+            from openai import AsyncOpenAI
         except ImportError:
             return None
-        return OpenAI(api_key=self.api_key)
+        return AsyncOpenAI(api_key=self.api_key)
 
-    def _call_openai(self, row: pd.Series, notes_history: str) -> dict:
-        response = self.client.responses.create(
+    async def _call_openai(self, row: pd.Series, notes_history: str) -> dict:
+        response = await self.client.responses.create(
             model=self.model,
             instructions=(
                 "You are analyzing facilitator notes for a Saudi test-prep intervention system. "
@@ -144,3 +178,12 @@ class NoteRiskAnalyzer:
 
 def clip01(value: float) -> float:
     return max(0.0, min(1.0, value))
+
+
+def progress_asyncio(tasks, desc: str):
+    try:
+        from tqdm.asyncio import tqdm_asyncio
+
+        return tqdm_asyncio.as_completed(tasks, desc=desc, total=len(tasks))
+    except ImportError:
+        return asyncio.as_completed(tasks)

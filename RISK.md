@@ -49,3 +49,5 @@ Install dependencies if needed:
 ```
 
 If `OPENAI_API_KEY` is not configured, or the `openai` package is not installed, notes are skipped rather than scored with keyword rules. This keeps the rule-based risk engine honest: unavailable LLM analysis is treated as unavailable data, not as low risk.
+
+LLM note analysis runs asynchronously with a `tqdm` progress bar. Concurrency is controlled by `note_llm_concurrency` in `risk/config.py`.
