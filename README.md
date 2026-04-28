@@ -19,6 +19,7 @@ Raw CSV data
   -> facilitator CSVs
   -> Google Drive upload
   -> Zapier sends facilitator Sheets
+  -> manager dashboard monitors coverage
 ```
 
 ## Main Run Command
@@ -39,6 +40,12 @@ Run and upload facilitator CSVs to the Drive folder watched by Zapier:
 
 ```bash
 .venv/bin/python run_pipeline.py --as-of 2025-10-14 --upload-drive
+```
+
+Run the manager dashboard:
+
+```bash
+.venv/bin/streamlit run dashboard/app.py
 ```
 
 ## Required `.env`
@@ -126,6 +133,10 @@ Creates an action queue with:
 - Arabic message draft
 - human review flags
 - one CSV per facilitator
+
+### Manager Dashboard
+
+The Streamlit dashboard is a read-only monitoring layer for managers. Facilitators still act from Sheets, while managers can inspect campus risk load, facilitator workload, intervention coverage, students needing follow-up, and the full student-level risk table.
 
 ### Zapier
 
