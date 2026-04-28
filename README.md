@@ -19,6 +19,7 @@ Raw CSV data
   -> facilitator CSVs
   -> Google Drive upload
   -> Zapier sends facilitator Sheets
+  -> webhook API receives feedback events
   -> manager dashboard monitors coverage
 ```
 
@@ -46,6 +47,12 @@ Run the manager dashboard:
 
 ```bash
 .venv/bin/streamlit run dashboard/app.py
+```
+
+Run the Zapier webhook API:
+
+```bash
+.venv/bin/uvicorn api.main:app --reload --port 8000
 ```
 
 ## Required `.env`
@@ -137,6 +144,10 @@ Creates an action queue with:
 ### Manager Dashboard
 
 The Streamlit dashboard is a read-only monitoring layer for managers. Facilitators still act from Sheets, while managers can inspect campus risk load, facilitator workload, intervention coverage, students needing follow-up, and the full student-level risk table.
+
+### Webhook API
+
+The FastAPI webhook receives Zapier feedback events at `POST /intervention-log` and appends them to `data/intervention_log.csv`. This gives the feedback layer a live path from Google Form responses into the project, while keeping the two-day prototype lightweight.
 
 ### Zapier
 
