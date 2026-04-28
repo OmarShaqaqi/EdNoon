@@ -157,11 +157,6 @@ Secondary:
 
 ## Feedback Loop
 
-Facilitator Sheets should include editable tracking columns:
+Facilitator queues include an `update_form_link` column. The link opens a Google Form prefilled with student and action context, so feedback from separate facilitator sheets lands in one central response sheet.
 
-- `status`
-- `contact_method`
-- `outcome_notes`
-- `updated_at`
-
-Zapier can append those updates to a master intervention log. Later, the pipeline can ingest that log to evaluate which actions worked and improve future recommendations.
+The facilitator Sheet stays read-only. Status, contact method, outcome notes, and timestamps are captured only in the Google Form response sheet. Later, the pipeline can ingest that log to evaluate which actions worked and improve future recommendations.

@@ -1,121 +1,17 @@
-student_id,student_name,campus_id,facilitator_email,parent_phone,parent_phone_valid,risk_score,risk_level,action_priority,queue_rank,today_action,recommended_action,risk_reasons,message_draft,needs_human_review,review_reason,action_plan_source
-S199,Khalid Al-Zahrani,C05,facilitator8@noon.com,+966501234699,True,85.1,critical,today,1,True,"Contact the parent to discuss Khalid's low attendance and practice issues, and suggest a plan to improve his engagement before the next quiz.",latest quiz score 9; attendance rate 6%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول أداء خالد في المدرسة. لقد لاحظنا أن معدل حضوره وممارسته للتمارين منخفض جداً، مما يؤثر على نتائجه. نريد أن نعمل معاً لتحسين هذا الوضع قبل الاختبار القادم. هل يمكننا تحديد موعد لمناقشة خطة دعم مناسبة؟
-
-شكراً لتعاونكم،
-
-المعلم/المعلمة",False,,openai
-S194,Layla Al-Mutairi,C05,facilitator8@noon.com,+966501234694,True,83.7,critical,today,2,True,Schedule a one-on-one meeting with Layla to discuss her challenges and create a focused study plan.,latest quiz score 11; attendance rate 9%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول تقدم ليلى في الدراسة. لقد لاحظنا أنها تواجه بعض الصعوبات في الاختبارات الأخيرة، حيث حصلت على 11 من 14 في الاختبار الأخير. 
-
-لذلك، أود أن أقترح أن نجتمع معًا لمناقشة كيفية دعمها بشكل أفضل في هذه الفترة الحرجة. يمكننا وضع خطة دراسية مخصصة لمساعدتها في تحسين أدائها. 
-
-يرجى إخباري بوقت يناسبكم للاجتماع. شكرًا لتعاونكم.
-
-مع تحياتي،
-
-[اسمك]  
-[وظيفتك]  
-[اسم المؤسسة]",False,,openai
-S188,Maryam Al-Mansour,C05,facilitator8@noon.com,+966501234688,True,82.3,critical,today,3,True,"Contact the parent to discuss Maryam's attendance and quiz performance, and suggest a plan for improvement.",latest quiz score 13; attendance rate 12%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول أداء مريم في البرنامج. لقد لاحظنا أن معدل حضورها منخفض جداً، كما حصلت على 13 في آخر اختبار، مما يعني أنها بحاجة إلى دعم إضافي. 
-
-نقترح أن نعمل معاً لوضع خطة لتحسين أدائها قبل الاختبار القادم بعد 6 أيام. هل يمكننا تحديد موعد لمناقشة ذلك؟
-
-شكراً لتعاونكم.
-
-مع تحياتي،
-الميسر",False,,openai
-S182,Layla Al-Khaldi,C05,facilitator8@noon.com,+966501234682,True,81.0,critical,today,4,True,Schedule a one-on-one session to discuss Layla's progress and create a tailored study plan.,latest quiz score 15; attendance rate 14%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول تقدم ليلى في البرنامج. لقد حصلت على 15 في الاختبار الأخير، ونحتاج إلى تحسين هذا الأداء قبل الاختبار القادم بعد 6 أيام. 
-
-أقترح أن نجتمع في جلسة خاصة لمناقشة كيفية دعمها بشكل أفضل ووضع خطة دراسية تناسب احتياجاتها. 
-
-يرجى إخباري بوقت يناسبكم.
-
-شكرًا لتعاونكم،
-
-[اسمك]",False,,openai
-S166,Nora Al-Saud,C05,facilitator8@noon.com,+966501234666,True,79.6,high,within_48h,5,True,Schedule a one-on-one meeting with Nora to discuss her challenges and create a focused study plan.,latest quiz score 17; attendance rate 17%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول أداء نورة في الفترة الأخيرة. لقد واجهت بعض التحديات في الاختبار الأخير، حيث حصلت على 17 من 20. نرى أن هناك حاجة لدعم إضافي لمساعدتها في تحسين أدائها.
-
-أقترح أن نجتمع لمناقشة خطة دراسية مخصصة لها، حيث يمكننا العمل معًا على تعزيز مهاراتها. هل يمكننا تحديد موعد للاجتماع خلال الأيام القليلة القادمة؟
-
-شكرًا لتعاونكم.
-
-مع تحياتي،
-
-[اسمك]",False,,openai
-S177,Abdullah Al-Otaibi,C05,facilitator8@noon.com,+966501234677,True,79.3,high,within_48h,6,True,Contact the parent to discuss Abdullah's academic struggles and encourage increased attendance and practice.,latest quiz score 18; attendance rate 17%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول أداء عبدالله في الفترة الأخيرة. لقد سجل عبدالله 18 في الاختبار الأخير، وهو بحاجة إلى تحسين أدائه لتحقيق الهدف المحدد. ألاحظ أن معدل حضوره منخفض، مما يؤثر على تقدمه الأكاديمي.
-
-أقترح أن نتحدث عن كيفية دعم عبدالله في الأيام القادمة، خاصة مع اقتراب الاختبار الجديد بعد 6 أيام. من المهم أن نعمل معًا لضمان نجاحه.
-
-شكرًا لتعاونكم،
-
-[اسمك] 
-[وظيفتك] 
-[جهة العمل]",False,,openai
-S171,Ahmad Al-Dossari,C05,facilitator8@noon.com,+966501234671,True,77.9,high,within_48h,7,True,Schedule a one-on-one meeting with Ahmad to discuss his challenges and create a focused study plan before the next quiz.,latest quiz score 20; attendance rate 20%; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أبلغكم بأن أحمد يواجه بعض التحديات الأكاديمية، حيث حصل على 20 في آخر اختبار. من المهم أن نعمل معًا لمساعدته على تحسين أدائه. أقترح أن نجتمع معًا لمناقشة خطة دراسية مركزة قبل الاختبار القادم. 
-
-يرجى إخباري بوقت يناسبكم للاجتماع. شكرًا لتعاونكم.
-
-مع تحياتي،
-الميسر",False,,openai
-S190,Nora Al-Saud,C05,facilitator8@noon.com,+966501234690,True,69.9,high,within_48h,8,True,"Contact the parent to discuss Nora's attendance and academic performance, and suggest a meeting to create a support plan.",latest quiz score 46; attendance rate 14%; practice avg 1.6/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أبلغكم بأن ابنتكم، نورة، تواجه بعض التحديات في الحضور والأداء الأكاديمي. لقد انخفضت نسبة حضورها بشكل ملحوظ، وهذا يؤثر على تحصيلها الدراسي. أود أن أقترح أن نتحدث معًا لنضع خطة دعم تساعدها على التحسن قبل الاختبار القادم.
-
-هل يمكننا تحديد موعد لمناقشة هذا الأمر؟
-
-شكرًا لتعاونكم،
-
-[اسمك]",False,,openai
-S196,Fatima Al-Ghamdi,C05,facilitator8@noon.com,+966501234696,True,61.4,high,within_48h,9,True,"Contact the parent to discuss Fatima's recent quiz performance and attendance, and suggest a focused study plan for the upcoming quiz.",latest quiz score 45; attendance rate 33%; practice avg 4.4/day; facilitator notes show concern,السلام عليكم، أود أن أتحدث معكم بشأن أداء فاطمة في الاختبار الأخير. لقد حصلت على 45 من 100، مما يعني أنها بحاجة إلى دعم إضافي قبل الاختبار القادم بعد 6 أيام. أود أن أقترح خطة دراسة مركزة لمساعدتها في تحسين أدائها. هل يمكننا تحديد وقت للحديث عن ذلك؟ شكراً لتعاونكم.,False,,openai
-S191,Hassan Al-Khalifa,C05,facilitator8@noon.com,+966501234691,True,57.4,medium,nudge_or_monitor,10,True,Schedule a meeting with Hassan's parent to discuss his academic progress and strategies for improvement.,latest quiz score 47; attendance rate 38%; practice avg 6.2/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أبلغكم بأن حسن قد واجه بعض التحديات في الاختبار الأخير، حيث حصل على 47 من 100. نحن نعمل على تحسين أدائه، وأعتقد أنه من المهم أن نتحدث معًا حول كيفية دعمه بشكل أفضل. هل يمكننا تحديد موعد للاجتماع لمناقشة استراتيجيات التحسين؟
-
-شكرًا لتعاونكم،
-
-المعلمة",False,,openai
-S179,Hassan Al-Balawi,C05,facilitator8@noon.com,+966501234679,True,54.8,medium,nudge_or_monitor,11,True,"Contact the parent to discuss Hassan's recent quiz performance and attendance, and suggest a focused study plan.",latest quiz score 49; attendance rate 41%; practice avg 7.4/day; facilitator notes show concern,السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء حسن في الاختبارات. لقد حصل على 49 في الاختبار الأخير، مما يعني أنه يحتاج إلى تحسين. كما أن معدل حضوره منخفض، مما قد يؤثر على تقدمه. أقترح أن نعمل معًا على خطة دراسية مركزة خلال الأيام القليلة القادمة قبل الاختبار القادم. هل يمكننا تحديد وقت للتحدث عن ذلك؟ شكراً لتعاونكم.,False,,openai
-S184,Fatima Al-Shahrani,C05,facilitator8@noon.com,+966501234684,True,51.2,medium,nudge_or_monitor,12,True,Send a supportive message to the parent to encourage Fatima and discuss her recent quiz performance.,latest quiz score 55; attendance rate 55%; practice avg 4.6/day; facilitator notes show concern,السلام عليكم، أود أن أشارككم بعض الملاحظات حول أداء فاطمة في الاختبارات الأخيرة. لقد حصلت على 55 في آخر اختبار، ونريد أن نساعدها في تحسين أدائها. نوصي بمزيد من الممارسة خلال الأيام القليلة القادمة قبل الاختبار القادم. إذا كان لديكم أي استفسارات أو تحتاجون إلى دعم إضافي، لا تترددوا في التواصل معنا. شكرًا لتعاونكم!,False,,openai
-S168,Amal Al-Salem,C05,facilitator8@noon.com,+966501234668,True,50.3,medium,nudge_or_monitor,13,False,Send a reminder message to the parent about the upcoming quiz and encourage them to support Amal's study efforts.,latest quiz score 51; attendance rate 44%; practice avg 9.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أذكركم بأن ابنتكم أمل السالم ستخضع لاختبار اللفظي بعد 6 أيام. لقد لاحظنا بعض التحسن في أدائها، ولكنها بحاجة إلى المزيد من الدعم والممارسة لضمان تحقيق الهدف المطلوب. 
-
-نوصي بتخصيص وقت إضافي للدراسة خلال الأيام القادمة. إذا كان لديكم أي استفسارات أو تحتاجون إلى مزيد من المعلومات، فلا تترددوا في التواصل معي. 
-
-مع خالص التحيات،
-
-[اسمك]",False,,openai
-S173,Omar Al-Qahtani,C05,facilitator8@noon.com,+966501234673,True,47.8,medium,nudge_or_monitor,14,False,Send a reminder message to the parent about the upcoming quiz and encourage support for Omar's preparation.,latest quiz score 57; attendance rate 61%; practice avg 5.6/day; facilitator notes show concern,السلام عليكم، أود أن أذكركم بأن امتحان اللفظي لعمر سيكون بعد 6 أيام. لقد حصل على 57 في الاختبار الأخير، وأود أن أشجعكم على دعمه في التحضير لهذا الاختبار. إذا كان لديكم أي استفسارات أو تحتاجون إلى مساعدة، فلا تترددوا في التواصل معي. شكرًا لكم!,False,,openai
-S174,Sara Al-Shammari,C05,facilitator8@noon.com,+966501234674,True,45.7,medium,nudge_or_monitor,15,False,Contact the parent to discuss Sara's refusal to practice and suggest a supportive intervention.,latest quiz score 54; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أتحدث معك عن ابنتك سارة. لقد لاحظنا أنها تواجه صعوبة في ممارسة التمارين، مما يؤثر على أدائها في الاختبارات. نريد أن نساعدها في تحسين نتائجها، لذا أود أن أقترح بعض الخطوات التي يمكن أن نتخذها معًا. 
-
-هل يمكنك التواصل معي في أقرب وقت ممكن؟
-
-شكرًا لك على تعاونك.
-
-مع تحياتي،
-
-الميسر",False,,openai
-S185,Omar Al-Qaisi,C05,facilitator8@noon.com,+966501234685,True,44.9,medium,nudge_or_monitor,16,False,Encourage the parent to support Omar in increasing his practice questions before the next quiz.,latest quiz score 53; practice avg 0.4/day; facilitator notes show concern,"السلام عليكم،
-
-أود أن أشارككم بعض الملاحظات حول أداء عمر في الاختبارات. لقد حضر عمر جميع الجلسات مؤخرًا، ولكن يبدو أنه يحتاج إلى مزيد من الممارسة مع الأسئلة. حصل على 53 في الاختبار الأخير، وهو أقل من الهدف المحدد له. 
-
-أوصي بأن نعمل معًا على تشجيعه لزيادة عدد الأسئلة التي يتدرب عليها خلال الأيام القليلة القادمة، حيث يتبقى 6 أيام فقط قبل الاختبار التالي. دعمكم سيكون له تأثير كبير.
-
-شكرًا لتعاونكم،
-
-المعلمة",False,,openai
+"student_id","student_name","campus_id","facilitator_email","parent_phone","parent_phone_valid","risk_score","risk_level","action_priority","queue_rank","today_action","recommended_action","risk_reasons","message_draft","needs_human_review","review_reason","action_plan_source","update_form_link"
+"S199","Khalid Al-Zahrani","C05","facilitator8@noon.com","+966501234699",True,84.5,"critical","today",1,True,"Call parent today to diagnose attendance barrier","latest quiz score 9; attendance rate 6%; practice avg 0.4/day","السلام عليكم، معكم فريق بون. نحتاج نساعد Khalid قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 9، ونسبة الحضور الأخيرة 6%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S199&entry.824519319=Khalid+Al-Zahrani&entry.172396955=facilitator8%40noon.com&entry.2007502189=84.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S194","Layla Al-Mutairi","C05","facilitator8@noon.com","+966501234694",True,82.9,"critical","today",2,True,"Call parent today to diagnose attendance barrier","latest quiz score 11; attendance rate 9%; practice avg 0.4/day","السلام عليكم، معكم فريق بون. نحتاج نساعد Layla قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 11، ونسبة الحضور الأخيرة 9%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S194&entry.824519319=Layla+Al-Mutairi&entry.172396955=facilitator8%40noon.com&entry.2007502189=82.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S188","Maryam Al-Mansour","C05","facilitator8@noon.com","+966501234688",True,81.4,"critical","today",3,True,"Call parent today to diagnose attendance barrier","latest quiz score 13; attendance rate 12%; practice avg 0.4/day","السلام عليكم، معكم فريق بون. نحتاج نساعد Maryam قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 13، ونسبة الحضور الأخيرة 12%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S188&entry.824519319=Maryam+Al-Mansour&entry.172396955=facilitator8%40noon.com&entry.2007502189=81.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S182","Layla Al-Khaldi","C05","facilitator8@noon.com","+966501234682",True,79.9,"high","within_48h",4,True,"Call parent today to diagnose attendance barrier","latest quiz score 15; attendance rate 14%; practice avg 0.4/day","السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 15، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S182&entry.824519319=Layla+Al-Khaldi&entry.172396955=facilitator8%40noon.com&entry.2007502189=79.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S166","Nora Al-Saud","C05","facilitator8@noon.com","+966501234666",True,78.4,"high","within_48h",5,True,"Call parent today to diagnose attendance barrier","latest quiz score 17; attendance rate 17%; practice avg 0.4/day","السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 17، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S166&entry.824519319=Nora+Al-Saud&entry.172396955=facilitator8%40noon.com&entry.2007502189=78.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S177","Abdullah Al-Otaibi","C05","facilitator8@noon.com","+966501234677",True,78.1,"high","within_48h",6,True,"Call parent today to diagnose attendance barrier","latest quiz score 18; attendance rate 17%; practice avg 0.4/day","السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 18، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S177&entry.824519319=Abdullah+Al-Otaibi&entry.172396955=facilitator8%40noon.com&entry.2007502189=78.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S171","Ahmad Al-Dossari","C05","facilitator8@noon.com","+966501234671",True,76.5,"high","within_48h",7,True,"Call parent today to diagnose attendance barrier","latest quiz score 20; attendance rate 20%; practice avg 0.4/day","السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 20، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S171&entry.824519319=Ahmad+Al-Dossari&entry.172396955=facilitator8%40noon.com&entry.2007502189=76.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S190","Nora Al-Saud","C05","facilitator8@noon.com","+966501234690",True,67.5,"high","within_48h",8,True,"Call parent today to diagnose attendance barrier","latest quiz score 46; attendance rate 14%; practice avg 1.6/day","السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 46، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S190&entry.824519319=Nora+Al-Saud&entry.172396955=facilitator8%40noon.com&entry.2007502189=67.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S196","Fatima Al-Ghamdi","C05","facilitator8@noon.com","+966501234696",True,59.2,"medium","nudge_or_monitor",9,True,"Call parent today to diagnose attendance barrier","latest quiz score 45; attendance rate 33%; practice avg 4.4/day","السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S196&entry.824519319=Fatima+Al-Ghamdi&entry.172396955=facilitator8%40noon.com&entry.2007502189=59.2&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S191","Hassan Al-Khalifa","C05","facilitator8@noon.com","+966501234691",True,54.7,"medium","nudge_or_monitor",10,True,"Call parent today to diagnose attendance barrier","latest quiz score 47; attendance rate 38%; practice avg 6.2/day","السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S191&entry.824519319=Hassan+Al-Khalifa&entry.172396955=facilitator8%40noon.com&entry.2007502189=54.7&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S179","Hassan Al-Balawi","C05","facilitator8@noon.com","+966501234679",True,51.8,"medium","nudge_or_monitor",11,True,"Call parent today to diagnose attendance barrier","latest quiz score 49; attendance rate 41%; practice avg 7.4/day","السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S179&entry.824519319=Hassan+Al-Balawi&entry.172396955=facilitator8%40noon.com&entry.2007502189=51.8&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S184","Fatima Al-Shahrani","C05","facilitator8@noon.com","+966501234684",True,48.9,"medium","nudge_or_monitor",12,True,"Send practice accountability message and assign a small daily target","latest quiz score 55; attendance rate 55%; practice avg 4.6/day","السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S184&entry.824519319=Fatima+Al-Shahrani&entry.172396955=facilitator8%40noon.com&entry.2007502189=48.9&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target"
+"S168","Amal Al-Salem","C05","facilitator8@noon.com","+966501234668",True,48.0,"medium","nudge_or_monitor",13,False,"Call parent today to diagnose attendance barrier","latest quiz score 51; attendance rate 44%; practice avg 9.4/day","السلام عليكم، نرسل تذكير بسيط لـ Amal بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S168&entry.824519319=Amal+Al-Salem&entry.172396955=facilitator8%40noon.com&entry.2007502189=48.0&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier"
+"S173","Omar Al-Qahtani","C05","facilitator8@noon.com","+966501234673",True,45.2,"medium","nudge_or_monitor",14,False,"Send practice accountability message and assign a small daily target","latest quiz score 57; attendance rate 61%; practice avg 5.6/day","السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S173&entry.824519319=Omar+Al-Qahtani&entry.172396955=facilitator8%40noon.com&entry.2007502189=45.2&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target"
+"S185","Omar Al-Qaisi","C05","facilitator8@noon.com","+966501234685",True,42.0,"medium","nudge_or_monitor",15,False,"Send practice accountability message and assign a small daily target","latest quiz score 53; practice avg 0.4/day","السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S185&entry.824519319=Omar+Al-Qaisi&entry.172396955=facilitator8%40noon.com&entry.2007502189=42.0&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target"
+"S174","Sara Al-Shammari","C05","facilitator8@noon.com","+966501234674",True,41.6,"medium","nudge_or_monitor",16,False,"Send practice accountability message and assign a small daily target","latest quiz score 54; practice avg 0.4/day","السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.",False,"","missing_api_key","https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S174&entry.824519319=Sara+Al-Shammari&entry.172396955=facilitator8%40noon.com&entry.2007502189=41.6&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target"

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from urllib.parse import quote_plus
 
 import pandas as pd
 
@@ -26,6 +27,7 @@ OUTPUT_COLUMNS = [
     "needs_human_review",
     "review_reason",
     "action_plan_source",
+    "update_form_link",
 ]
 
 
@@ -41,12 +43,25 @@ def build_action_queue(scored: pd.DataFrame, config: InterventionConfig, action_
     queue["needs_human_review"] = action_results.map(lambda result: result.needs_human_review)
     queue["review_reason"] = action_results.map(lambda result: result.review_reason)
     queue["action_plan_source"] = action_results.map(lambda result: result.source)
+    queue["update_form_link"] = queue.apply(lambda row: build_update_form_link(row, config), axis=1)
 
     queue = queue.sort_values(["facilitator_email", "risk_score"], ascending=[True, False])
     queue["queue_rank"] = queue.groupby("facilitator_email").cumcount() + 1
     queue["today_action"] = queue["queue_rank"].le(config.max_daily_actions_per_facilitator)
     queue = queue.sort_values(["today_action", "facilitator_email", "queue_rank"], ascending=[False, True, True])
     return queue[OUTPUT_COLUMNS]
+
+
+def build_update_form_link(row: pd.Series, config: InterventionConfig) -> str:
+    values = {
+        "student_id": row.get("student_id", ""),
+        "student_name": row.get("student_name", ""),
+        "facilitator_email": row.get("facilitator_email", ""),
+        "risk_score": row.get("risk_score", ""),
+        "recommended_action": row.get("recommended_action", ""),
+    }
+    encoded_values = {key: quote_plus(str(value)) for key, value in values.items()}
+    return config.update_form_url_template.format(**encoded_values)
 
 
 def action_priority(row: pd.Series) -> str:
@@ -77,6 +92,7 @@ def write_facilitator_digest(path: Path, queue: pd.DataFrame) -> None:
                     f"- Why: {row.risk_reasons}",
                     f"- Action: {row.recommended_action}{review}",
                     f"- Message: {row.message_draft}",
+                    f"- Update: {row.update_form_link}",
                     "",
                 ]
             )

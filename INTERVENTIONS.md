@@ -27,6 +27,7 @@ What it does:
 - Caps daily workload per facilitator using `max_daily_actions_per_facilitator`.
 - Writes one CSV per facilitator so Zapier can send each facilitator only their own queue.
 - Flags rows that need human review, such as invalid phone numbers or possible note/student mismatch.
+- Adds an `update_form_link` per row. This opens the Google Form prefilled with student/facilitator/action context so all facilitator updates land in one central intervention log.
 
 The LLM prompt includes:
 

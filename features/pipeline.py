@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import csv
 
 import pandas as pd
 
@@ -32,7 +33,7 @@ def build_student_features(input_dir: Path, output_dir: Path, config: FeatureCon
     features["failed_latest_quiz"] = has_quiz & features["latest_quiz_score"].lt(70)
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    features.to_csv(output_dir / f"student_features_{as_of.date()}.csv", index=False)
+    features.to_csv(output_dir / f"student_features_{as_of.date()}.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
     return features
 
 

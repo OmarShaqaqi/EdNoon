@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import csv
 from pathlib import Path
 
 import pandas as pd
@@ -37,7 +38,8 @@ def read_required_csv(path: Path, dataset: str, report: QualityReport) -> pd.Dat
     if not path.exists():
         raise FileNotFoundError(f"Missing required source file: {path}")
 
-    df = pd.read_csv(path)
+    dtype = {"parent_phone": str} if dataset == "student_metadata" else None
+    df = pd.read_csv(path, dtype=dtype)
     report.loaded_rows[dataset] = len(df)
 
     missing_columns = REQUIRED_COLUMNS[dataset] - set(df.columns)
@@ -56,7 +58,7 @@ def write_outputs(
     clean_dir = output_dir / "clean"
     clean_dir.mkdir(parents=True, exist_ok=True)
 
-    metadata.to_csv(clean_dir / "student_metadata_clean.csv", index=False)
+    metadata.to_csv(clean_dir / "student_metadata_clean.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
     daily.to_csv(clean_dir / "student_daily_metrics_clean.csv", index=False)
     notes.to_csv(clean_dir / "facilitator_notes_clean.csv", index=False)
 

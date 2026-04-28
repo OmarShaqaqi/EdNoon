@@ -10,3 +10,12 @@ class InterventionConfig:
     high_threshold: float = 60
     medium_threshold: float = 40
     quiz_day_label: str = "اختبار اللفظي"
+    update_form_url_template: str = (
+        "https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform"
+        "?usp=pp_url"
+        "&entry.443725423={student_id}"
+        "&entry.824519319={student_name}"
+        "&entry.172396955={facilitator_email}"
+        "&entry.2007502189={risk_score}"
+        "&entry.1815215151={recommended_action}"
+    )

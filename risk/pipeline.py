@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import csv
 
 import pandas as pd
 
@@ -16,6 +17,5 @@ def score_risk(input_path: Path, output_dir: Path, config: RiskConfig) -> pd.Dat
 
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / input_path.name.replace("student_features", "student_risk_scores")
-    scored.to_csv(output_path, index=False)
+    scored.to_csv(output_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
     return scored
-

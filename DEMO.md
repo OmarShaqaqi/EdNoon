@@ -127,13 +127,12 @@ Highlight:
 
 - risk score coloring
 - risk level coloring
-- status dropdown
-- contact method dropdown
-- outcome notes
+- `update_form_link`
+- read-only facilitator queue
 
 Talk track:
 
-> The facilitator Sheet is designed for action and feedback. Generated columns are for reading; status/outcome columns create the feedback loop.
+> The facilitator Sheet is designed for action, not manual data entry. Facilitators click the update form link for a student, and status/outcome feedback lands in one central Google Form response sheet.
 
 ## 8. Show Zapier Flow
 
@@ -181,4 +180,3 @@ Later engineering:
 - intervention log ingestion
 - calibrated model after enough outcomes
 - WhatsApp Business API integration
-
