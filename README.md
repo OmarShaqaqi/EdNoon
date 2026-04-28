@@ -95,6 +95,11 @@ Template:
 
 - `templates/facilitator_queue_template.xlsx`
 
+Case study docs:
+
+- `CASE_STUDY_SUMMARY.md`
+- `DEMO_SCRIPT.md`
+
 ## Layer Summary
 
 ### Ingestion
