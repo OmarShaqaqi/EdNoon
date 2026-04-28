@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+import re
 from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, field_validator
@@ -36,10 +37,10 @@ class InterventionLogIn(BaseModel):
     student_id: str = Field(..., min_length=1)
     student_name: str = Field(..., min_length=1)
     facilitator_email: str = Field(..., min_length=3)
-    risk_score: float = Field(..., ge=0, le=100)
+    risk_score: float = Field(0.0, ge=0, le=100)
     recommended_action: str = Field(..., min_length=1)
-    status: InterventionStatus
-    contact_method: ContactMethod
+    status: InterventionStatus = "started"
+    contact_method: ContactMethod = "other"
     outcome_notes: str = ""
 
     @field_validator("student_id")
@@ -51,6 +52,21 @@ class InterventionLogIn(BaseModel):
     @classmethod
     def normalize_email(cls, value: str) -> str:
         return value.strip().lower()
+
+    @field_validator("risk_score", mode="before")
+    @classmethod
+    def parse_zapier_risk_score(cls, value: object) -> float:
+        """Accept Zapier/Form values like '73.1', '73.1%', or an empty field."""
+        if isinstance(value, (int, float)):
+            return float(value)
+        if value is None:
+            return 0.0
+
+        text = str(value).strip()
+        match = re.search(r"-?\d+(?:\.\d+)?", text)
+        if not match:
+            return 0.0
+        return float(match.group(0))
 
 
 class InterventionLogRecord(InterventionLogIn):
