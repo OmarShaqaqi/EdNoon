@@ -8,6 +8,7 @@
 - Risk: 72.5 (high)
 - Why: latest quiz score 28; attendance rate 23%; practice avg 0.6/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S012&entry.824519319=Amal+Al-Juhani&entry.172396955=facilitator1%40noon.com&entry.2007502189=72.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -17,6 +18,7 @@
 - Risk: 59.8 (medium)
 - Why: latest quiz score 38; attendance rate 47%; practice avg 2.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Khalid بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S019&entry.824519319=Khalid+Al-Anzi&entry.172396955=facilitator1%40noon.com&entry.2007502189=59.8&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -26,6 +28,7 @@
 - Risk: 58.7 (medium)
 - Why: latest quiz score 42; attendance rate 50%; practice avg 1.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S004&entry.824519319=Fatima+Al-Qahtani&entry.172396955=facilitator1%40noon.com&entry.2007502189=58.7&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -35,6 +38,7 @@
 - Risk: 40.2 (medium)
 - Why: latest quiz score 58; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S015&entry.824519319=Ahmad+Al-Faraj&entry.172396955=facilitator1%40noon.com&entry.2007502189=40.2&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -46,6 +50,7 @@
 - Risk: 67.3 (high)
 - Why: latest quiz score 30; attendance rate 39%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S033&entry.824519319=Abdullah+Al-Saud&entry.172396955=facilitator2%40noon.com&entry.2007502189=67.3&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -55,6 +60,7 @@
 - Risk: 65.7 (high)
 - Why: latest quiz score 32; attendance rate 42%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 32، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S022&entry.824519319=Nora+Al-Qaisi&entry.172396955=facilitator2%40noon.com&entry.2007502189=65.7&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -64,6 +70,7 @@
 - Risk: 63.5 (high)
 - Why: latest quiz score 35; attendance rate 42%; practice avg 1.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 35، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S038&entry.824519319=Layla+Al-Shammari&entry.172396955=facilitator2%40noon.com&entry.2007502189=63.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -73,6 +80,7 @@
 - Risk: 59.6 (medium)
 - Why: latest quiz score 40; attendance rate 46%; practice avg 2.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S027&entry.824519319=Ahmad+Al-Salem&entry.172396955=facilitator2%40noon.com&entry.2007502189=59.6&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -84,6 +92,7 @@
 - Risk: 69.9 (high)
 - Why: latest quiz score 27; attendance rate 34%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S073&entry.824519319=Yousef+Al-Saud&entry.172396955=facilitator3%40noon.com&entry.2007502189=69.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -93,6 +102,7 @@
 - Risk: 68.4 (high)
 - Why: latest quiz score 29; attendance rate 37%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S061&entry.824519319=Yousef+Al-Juhani&entry.172396955=facilitator3%40noon.com&entry.2007502189=68.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -102,6 +112,7 @@
 - Risk: 66.9 (high)
 - Why: latest quiz score 31; attendance rate 39%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S049&entry.824519319=Yousef+Al-Mutlaq&entry.172396955=facilitator3%40noon.com&entry.2007502189=66.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -111,6 +122,7 @@
 - Risk: 64.5 (high)
 - Why: latest quiz score 34; attendance rate 39%; practice avg 1.6/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 34، ونسبة الحضور الأخيرة 39%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S066&entry.824519319=Sara+Al-Anzi&entry.172396955=facilitator3%40noon.com&entry.2007502189=64.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -120,6 +132,7 @@
 - Risk: 63.1 (high)
 - Why: latest quiz score 36; attendance rate 42%; practice avg 1.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 36، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S054&entry.824519319=Sara+Al-Khalifa&entry.172396955=facilitator3%40noon.com&entry.2007502189=63.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -129,6 +142,7 @@
 - Risk: 60.1 (high)
 - Why: latest quiz score 39; attendance rate 45%; practice avg 2.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Maryam قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 39، ونسبة الحضور الأخيرة 45%، ومتوسط التدريب اليومي 2.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S044&entry.824519319=Maryam+Al-Faraj&entry.172396955=facilitator3%40noon.com&entry.2007502189=60.1&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -138,6 +152,7 @@
 - Risk: 40.2 (medium)
 - Why: latest quiz score 58; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S069&entry.824519319=Abdullah+Al-Mutlaq&entry.172396955=facilitator3%40noon.com&entry.2007502189=40.2&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -149,6 +164,7 @@
 - Risk: 72.7 (high)
 - Why: latest quiz score 24; attendance rate 28%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 24، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S096&entry.824519319=Amal+Al-Salem&entry.172396955=facilitator4%40noon.com&entry.2007502189=72.7&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -158,6 +174,7 @@
 - Risk: 71.1 (high)
 - Why: latest quiz score 26; attendance rate 31%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 26، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S084&entry.824519319=Amal+Al-Subai&entry.172396955=facilitator4%40noon.com&entry.2007502189=71.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -167,6 +184,7 @@
 - Risk: 68.1 (high)
 - Why: latest quiz score 30; attendance rate 37%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 30، ونسبة الحضور الأخيرة 37%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S078&entry.824519319=Sara+Al-Shammari&entry.172396955=facilitator4%40noon.com&entry.2007502189=68.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -176,6 +194,7 @@
 - Risk: 66.6 (high)
 - Why: latest quiz score 33; attendance rate 34%; practice avg 1.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 33، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 1.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S089&entry.824519319=Omar+Al-Qaisi&entry.172396955=facilitator4%40noon.com&entry.2007502189=66.6&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -185,6 +204,7 @@
 - Risk: 66.2 (high)
 - Why: latest quiz score 48; attendance rate 17%; practice avg 1.6/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Khalid قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 48، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S091&entry.824519319=Khalid+Al-Thani&entry.172396955=facilitator4%40noon.com&entry.2007502189=66.2&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -194,6 +214,7 @@
 - Risk: 41.5 (medium)
 - Why: latest quiz score 53; attendance rate 47%
 - Action: Schedule short 1:1 academic support before next quiz
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S086&entry.824519319=Layla+Al-Khaldi&entry.172396955=facilitator4%40noon.com&entry.2007502189=41.5&entry.1815215151=Schedule+short+1%3A1+academic+support+before+next+quiz
 
@@ -203,6 +224,7 @@
 - Risk: 40.6 (medium)
 - Why: latest quiz score 57; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S093&entry.824519319=Abdullah+Al-Rashidi&entry.172396955=facilitator4%40noon.com&entry.2007502189=40.6&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -214,6 +236,7 @@
 - Risk: 70.4 (high)
 - Why: latest quiz score 28; attendance rate 31%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 28، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S108&entry.824519319=Amal+Al-Subai&entry.172396955=facilitator5%40noon.com&entry.2007502189=70.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -223,6 +246,7 @@
 - Risk: 68.5 (high)
 - Why: latest quiz score 31; attendance rate 34%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 31، ونسبة الحضور الأخيرة 34%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S113&entry.824519319=Omar+Al-Qaisi&entry.172396955=facilitator5%40noon.com&entry.2007502189=68.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -232,6 +256,7 @@
 - Risk: 58.3 (medium)
 - Why: latest quiz score 41; attendance rate 46%; practice avg 3.0/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S102&entry.824519319=Sara+Al-Shammari&entry.172396955=facilitator5%40noon.com&entry.2007502189=58.3&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -243,6 +268,7 @@
 - Risk: 73.8 (high)
 - Why: latest quiz score 23; attendance rate 26%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S132&entry.824519319=Amal+Al-Subai&entry.172396955=facilitator6%40noon.com&entry.2007502189=73.8&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -252,6 +278,7 @@
 - Risk: 72.3 (high)
 - Why: latest quiz score 25; attendance rate 28%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S120&entry.824519319=Amal+Al-Salem&entry.172396955=facilitator6%40noon.com&entry.2007502189=72.3&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -261,6 +288,7 @@
 - Risk: 71.6 (high)
 - Why: latest quiz score 27; attendance rate 28%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 27، ونسبة الحضور الأخيرة 28%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S137&entry.824519319=Omar+Al-Qaisi&entry.172396955=facilitator6%40noon.com&entry.2007502189=71.6&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -270,6 +298,7 @@
 - Risk: 70.1 (high)
 - Why: latest quiz score 29; attendance rate 31%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Sara قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 29، ونسبة الحضور الأخيرة 31%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S126&entry.824519319=Sara+Al-Shammari&entry.172396955=facilitator6%40noon.com&entry.2007502189=70.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -279,6 +308,7 @@
 - Risk: 51.8 (medium)
 - Why: latest quiz score 58; attendance rate 58%; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Ahmad بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S123&entry.824519319=Ahmad+Al-Dossari&entry.172396955=facilitator6%40noon.com&entry.2007502189=51.8&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -288,6 +318,7 @@
 - Risk: 42.3 (medium)
 - Why: latest quiz score 60; attendance rate 56%; practice avg 8.4/day
 - Action: Schedule short 1:1 academic support before next quiz
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S134&entry.824519319=Layla+Al-Khaldi&entry.172396955=facilitator6%40noon.com&entry.2007502189=42.3&entry.1815215151=Schedule+short+1%3A1+academic+support+before+next+quiz
 
@@ -297,6 +328,7 @@
 - Risk: 40.6 (medium)
 - Why: latest quiz score 57; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S140&entry.824519319=Maryam+Al-Mansour&entry.172396955=facilitator6%40noon.com&entry.2007502189=40.6&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -306,6 +338,7 @@
 - Risk: 40.2 (medium)
 - Why: latest quiz score 58; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Abdullah بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S129&entry.824519319=Abdullah+Al-Otaibi&entry.172396955=facilitator6%40noon.com&entry.2007502189=40.2&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -317,6 +350,7 @@
 - Risk: 76.9 (high)
 - Why: latest quiz score 19; attendance rate 20%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Hassan قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 19، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S155&entry.824519319=Hassan+Al-Balawi&entry.172396955=facilitator7%40noon.com&entry.2007502189=76.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -326,6 +360,7 @@
 - Risk: 75.3 (high)
 - Why: latest quiz score 21; attendance rate 23%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Amal قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 21، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S144&entry.824519319=Amal+Al-Salem&entry.172396955=facilitator7%40noon.com&entry.2007502189=75.3&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -335,6 +370,7 @@
 - Risk: 74.6 (high)
 - Why: latest quiz score 23; attendance rate 23%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 23، ونسبة الحضور الأخيرة 23%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S159&entry.824519319=Ahmad+Al-Anzi&entry.172396955=facilitator7%40noon.com&entry.2007502189=74.6&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -344,6 +380,7 @@
 - Risk: 73.1 (high)
 - Why: latest quiz score 25; attendance rate 26%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Omar قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 25، ونسبة الحضور الأخيرة 26%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S149&entry.824519319=Omar+Al-Qahtani&entry.172396955=facilitator7%40noon.com&entry.2007502189=73.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -353,6 +390,7 @@
 - Risk: 67.9 (high)
 - Why: latest quiz score 0; attendance rate 42%; practice avg 8.2/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Yousef قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 0، ونسبة الحضور الأخيرة 42%، ومتوسط التدريب اليومي 8.2 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S145&entry.824519319=Yousef+Al-Harbi&entry.172396955=facilitator7%40noon.com&entry.2007502189=67.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -362,6 +400,7 @@
 - Risk: 42.7 (medium)
 - Why: latest quiz score 54; attendance rate 50%
 - Action: Schedule short 1:1 academic support before next quiz
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Layla بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S146&entry.824519319=Layla+Al-Mutairi&entry.172396955=facilitator7%40noon.com&entry.2007502189=42.7&entry.1815215151=Schedule+short+1%3A1+academic+support+before+next+quiz
 
@@ -371,6 +410,7 @@
 - Risk: 42.2 (medium)
 - Why: latest quiz score 59; attendance rate 65%; practice avg 6.6/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Omar بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S161&entry.824519319=Omar+Al-Qaisi&entry.172396955=facilitator7%40noon.com&entry.2007502189=42.2&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -380,6 +420,7 @@
 - Risk: 41.3 (medium)
 - Why: latest quiz score 55; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Sara بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S162&entry.824519319=Sara+Al-Mutlaq&entry.172396955=facilitator7%40noon.com&entry.2007502189=41.3&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -389,6 +430,7 @@
 - Risk: 40.9 (medium)
 - Why: latest quiz score 56; practice avg 0.4/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Maryam بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S152&entry.824519319=Maryam+Al-Maliki&entry.172396955=facilitator7%40noon.com&entry.2007502189=40.9&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target
 
@@ -400,6 +442,7 @@
 - Risk: 84.5 (critical)
 - Why: latest quiz score 9; attendance rate 6%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Khalid قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 9، ونسبة الحضور الأخيرة 6%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S199&entry.824519319=Khalid+Al-Zahrani&entry.172396955=facilitator8%40noon.com&entry.2007502189=84.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -409,6 +452,7 @@
 - Risk: 82.9 (critical)
 - Why: latest quiz score 11; attendance rate 9%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Layla قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 11، ونسبة الحضور الأخيرة 9%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S194&entry.824519319=Layla+Al-Mutairi&entry.172396955=facilitator8%40noon.com&entry.2007502189=82.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -418,6 +462,7 @@
 - Risk: 81.4 (critical)
 - Why: latest quiz score 13; attendance rate 12%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، معكم فريق بون. نحتاج نساعد Maryam قبل اختبار اللفظي. لاحظنا: درجة الاختبار الأخيرة 13، ونسبة الحضور الأخيرة 12%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. هل يناسبكم اتصال قصير اليوم لوضع خطة دعم؟
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S188&entry.824519319=Maryam+Al-Mansour&entry.172396955=facilitator8%40noon.com&entry.2007502189=81.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -427,6 +472,7 @@
 - Risk: 79.9 (high)
 - Why: latest quiz score 15; attendance rate 14%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Layla قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 15، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S182&entry.824519319=Layla+Al-Khaldi&entry.172396955=facilitator8%40noon.com&entry.2007502189=79.9&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -436,6 +482,7 @@
 - Risk: 78.4 (high)
 - Why: latest quiz score 17; attendance rate 17%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 17، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S166&entry.824519319=Nora+Al-Saud&entry.172396955=facilitator8%40noon.com&entry.2007502189=78.4&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -445,6 +492,7 @@
 - Risk: 78.1 (high)
 - Why: latest quiz score 18; attendance rate 17%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Abdullah قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 18، ونسبة الحضور الأخيرة 17%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S177&entry.824519319=Abdullah+Al-Otaibi&entry.172396955=facilitator8%40noon.com&entry.2007502189=78.1&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -454,6 +502,7 @@
 - Risk: 76.5 (high)
 - Why: latest quiz score 20; attendance rate 20%; practice avg 0.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Ahmad قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 20، ونسبة الحضور الأخيرة 20%، ومتوسط التدريب اليومي 0.4 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S171&entry.824519319=Ahmad+Al-Dossari&entry.172396955=facilitator8%40noon.com&entry.2007502189=76.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -463,6 +512,7 @@
 - Risk: 67.5 (high)
 - Why: latest quiz score 46; attendance rate 14%; practice avg 1.6/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نود دعم Nora قبل اختبار اللفظي. الملاحظة الحالية: درجة الاختبار الأخيرة 46، ونسبة الحضور الأخيرة 14%، ومتوسط التدريب اليومي 1.6 سؤال، وتوجد ملاحظات من الميسر تحتاج متابعة. نرجو متابعة تدريب اليوم وسنتواصل معكم عند الحاجة.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S190&entry.824519319=Nora+Al-Saud&entry.172396955=facilitator8%40noon.com&entry.2007502189=67.5&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -472,6 +522,7 @@
 - Risk: 59.2 (medium)
 - Why: latest quiz score 45; attendance rate 33%; practice avg 4.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S196&entry.824519319=Fatima+Al-Ghamdi&entry.172396955=facilitator8%40noon.com&entry.2007502189=59.2&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -481,6 +532,7 @@
 - Risk: 54.7 (medium)
 - Why: latest quiz score 47; attendance rate 38%; practice avg 6.2/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S191&entry.824519319=Hassan+Al-Khalifa&entry.172396955=facilitator8%40noon.com&entry.2007502189=54.7&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -490,6 +542,7 @@
 - Risk: 51.8 (medium)
 - Why: latest quiz score 49; attendance rate 41%; practice avg 7.4/day
 - Action: Call parent today to diagnose attendance barrier
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Hassan بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S179&entry.824519319=Hassan+Al-Balawi&entry.172396955=facilitator8%40noon.com&entry.2007502189=51.8&entry.1815215151=Call+parent+today+to+diagnose+attendance+barrier
 
@@ -499,5 +552,6 @@
 - Risk: 48.9 (medium)
 - Why: latest quiz score 55; attendance rate 55%; practice avg 4.6/day
 - Action: Send practice accountability message and assign a small daily target
+- Review: LLM action planning failed: Connection error.
 - Message: السلام عليكم، نرسل تذكير بسيط لـ Fatima بالمحافظة على الحضور والتدريب اليومي قبل اختبار اللفظي.
 - Update: https://docs.google.com/forms/d/e/1FAIpQLSczZrPRtoh2L4MxnhKv_h9KB_R9eC6R1Qgaze0h8QWGfTpt5g/viewform?usp=pp_url&entry.443725423=S184&entry.824519319=Fatima+Al-Shahrani&entry.172396955=facilitator8%40noon.com&entry.2007502189=48.9&entry.1815215151=Send+practice+accountability+message+and+assign+a+small+daily+target

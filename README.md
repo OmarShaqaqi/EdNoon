@@ -75,7 +75,7 @@ Ingestion:
 - `outputs/ingestion/clean/student_metadata_clean.csv`
 - `outputs/ingestion/clean/student_daily_metrics_clean.csv`
 - `outputs/ingestion/clean/facilitator_notes_clean.csv`
-- `outputs/ingestion/quality_report.md`
+- `auxiliary/outputs/ingestion/quality_report.md`
 
 Features:
 
@@ -88,7 +88,7 @@ Risk:
 Interventions:
 
 - `outputs/interventions/facilitator_action_queue_2025-10-14.csv`
-- `outputs/interventions/facilitator_action_queue_2025-10-14.md`
+- `auxiliary/outputs/interventions/facilitator_action_queue_2025-10-14.md`
 - `outputs/interventions/facilitators/*.csv`
 
 Template:
